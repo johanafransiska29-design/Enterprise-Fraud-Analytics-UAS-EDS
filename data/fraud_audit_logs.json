@@ -1,0 +1,3002 @@
+[
+  {
+    "log_id": "AUD-2987203",
+    "TransactionID": 2987203,
+    "investigator_note": "INVESTIGATION: Transaksi nominal tinggi terdeteksi pada merchant kategori berisiko.",
+    "ticket_status": "Escalated"
+  },
+  {
+    "log_id": "AUD-2987240",
+    "TransactionID": 2987240,
+    "investigator_note": "URGENT: Nasabah melaporkan transaksi tidak dikenal dari perangkat baru pada dini hari.",
+    "ticket_status": "Closed-Confirmed"
+  },
+  {
+    "log_id": "AUD-2987243",
+    "TransactionID": 2987243,
+    "investigator_note": "INVESTIGATION: Transaksi nominal tinggi terdeteksi pada merchant kategori berisiko.",
+    "ticket_status": "Closed-Confirmed"
+  },
+  {
+    "log_id": "AUD-2987245",
+    "TransactionID": 2987245,
+    "investigator_note": "ALERT: Percobaan transaksi berulang dalam waktu singkat melewati batas wajar.",
+    "ticket_status": "Closed-Confirmed"
+  },
+  {
+    "log_id": "AUD-2987288",
+    "TransactionID": 2987288,
+    "investigator_note": "URGENT: Nasabah melaporkan transaksi tidak dikenal dari perangkat baru pada dini hari.",
+    "ticket_status": "Closed-Confirmed"
+  },
+  {
+    "log_id": "AUD-2987367",
+    "TransactionID": 2987367,
+    "investigator_note": "INVESTIGATION: Transaksi nominal tinggi terdeteksi pada merchant kategori berisiko.",
+    "ticket_status": "Escalated"
+  },
+  {
+    "log_id": "AUD-2987405",
+    "TransactionID": 2987405,
+    "investigator_note": "ALERT: Percobaan transaksi berulang dalam waktu singkat melewati batas wajar.",
+    "ticket_status": "Closed-Confirmed"
+  },
+  {
+    "log_id": "AUD-2987630",
+    "TransactionID": 2987630,
+    "investigator_note": "REVIEW: Alamat IP dan domain email pembeli tidak sesuai dengan profil kartu terdaftar.",
+    "ticket_status": "Closed-Confirmed"
+  },
+  {
+    "log_id": "AUD-2987683",
+    "TransactionID": 2987683,
+    "investigator_note": "INVESTIGATION: Transaksi nominal tinggi terdeteksi pada merchant kategori berisiko.",
+    "ticket_status": "Closed-Confirmed"
+  },
+  {
+    "log_id": "AUD-2987736",
+    "TransactionID": 2987736,
+    "investigator_note": "URGENT: Nasabah melaporkan transaksi tidak dikenal dari perangkat baru pada dini hari.",
+    "ticket_status": "Closed-Confirmed"
+  },
+  {
+    "log_id": "AUD-2987779",
+    "TransactionID": 2987779,
+    "investigator_note": "INVESTIGATION: Transaksi nominal tinggi terdeteksi pada merchant kategori berisiko.",
+    "ticket_status": "Closed-Confirmed"
+  },
+  {
+    "log_id": "AUD-2987780",
+    "TransactionID": 2987780,
+    "investigator_note": "URGENT: Nasabah melaporkan transaksi tidak dikenal dari perangkat baru pada dini hari.",
+    "ticket_status": "Closed-Confirmed"
+  },
+  {
+    "log_id": "AUD-2987781",
+    "TransactionID": 2987781,
+    "investigator_note": "ALERT: Percobaan transaksi berulang dalam waktu singkat melewati batas wajar.",
+    "ticket_status": "Closed-Confirmed"
+  },
+  {
+    "log_id": "AUD-2987869",
+    "TransactionID": 2987869,
+    "investigator_note": "ALERT: Percobaan transaksi berulang dalam waktu singkat melewati batas wajar.",
+    "ticket_status": "Closed-Confirmed"
+  },
+  {
+    "log_id": "AUD-2987923",
+    "TransactionID": 2987923,
+    "investigator_note": "INVESTIGATION: Transaksi nominal tinggi terdeteksi pada merchant kategori berisiko.",
+    "ticket_status": "Escalated"
+  },
+  {
+    "log_id": "AUD-2988062",
+    "TransactionID": 2988062,
+    "investigator_note": "REVIEW: Alamat IP dan domain email pembeli tidak sesuai dengan profil kartu terdaftar.",
+    "ticket_status": "Closed-Confirmed"
+  },
+  {
+    "log_id": "AUD-2988064",
+    "TransactionID": 2988064,
+    "investigator_note": "URGENT: Nasabah melaporkan transaksi tidak dikenal dari perangkat baru pada dini hari.",
+    "ticket_status": "Closed-Confirmed"
+  },
+  {
+    "log_id": "AUD-2988069",
+    "TransactionID": 2988069,
+    "investigator_note": "ALERT: Percobaan transaksi berulang dalam waktu singkat melewati batas wajar.",
+    "ticket_status": "Closed-Confirmed"
+  },
+  {
+    "log_id": "AUD-2988081",
+    "TransactionID": 2988081,
+    "investigator_note": "ALERT: Percobaan transaksi berulang dalam waktu singkat melewati batas wajar.",
+    "ticket_status": "Escalated"
+  },
+  {
+    "log_id": "AUD-2988097",
+    "TransactionID": 2988097,
+    "investigator_note": "ALERT: Percobaan transaksi berulang dalam waktu singkat melewati batas wajar.",
+    "ticket_status": "Closed-Confirmed"
+  },
+  {
+    "log_id": "AUD-2988169",
+    "TransactionID": 2988169,
+    "investigator_note": "ALERT: Percobaan transaksi berulang dalam waktu singkat melewati batas wajar.",
+    "ticket_status": "Closed-Confirmed"
+  },
+  {
+    "log_id": "AUD-2988173",
+    "TransactionID": 2988173,
+    "investigator_note": "ALERT: Percobaan transaksi berulang dalam waktu singkat melewati batas wajar.",
+    "ticket_status": "Closed-Confirmed"
+  },
+  {
+    "log_id": "AUD-2988186",
+    "TransactionID": 2988186,
+    "investigator_note": "REVIEW: Alamat IP dan domain email pembeli tidak sesuai dengan profil kartu terdaftar.",
+    "ticket_status": "Closed-Confirmed"
+  },
+  {
+    "log_id": "AUD-2988195",
+    "TransactionID": 2988195,
+    "investigator_note": "INVESTIGATION: Transaksi nominal tinggi terdeteksi pada merchant kategori berisiko.",
+    "ticket_status": "Closed-Confirmed"
+  },
+  {
+    "log_id": "AUD-2988235",
+    "TransactionID": 2988235,
+    "investigator_note": "INVESTIGATION: Transaksi nominal tinggi terdeteksi pada merchant kategori berisiko.",
+    "ticket_status": "Closed-Confirmed"
+  },
+  {
+    "log_id": "AUD-2988250",
+    "TransactionID": 2988250,
+    "investigator_note": "REVIEW: Alamat IP dan domain email pembeli tidak sesuai dengan profil kartu terdaftar.",
+    "ticket_status": "Escalated"
+  },
+  {
+    "log_id": "AUD-2988261",
+    "TransactionID": 2988261,
+    "investigator_note": "ALERT: Percobaan transaksi berulang dalam waktu singkat melewati batas wajar.",
+    "ticket_status": "Closed-Confirmed"
+  },
+  {
+    "log_id": "AUD-2988269",
+    "TransactionID": 2988269,
+    "investigator_note": "ALERT: Percobaan transaksi berulang dalam waktu singkat melewati batas wajar.",
+    "ticket_status": "Escalated"
+  },
+  {
+    "log_id": "AUD-2988274",
+    "TransactionID": 2988274,
+    "investigator_note": "REVIEW: Alamat IP dan domain email pembeli tidak sesuai dengan profil kartu terdaftar.",
+    "ticket_status": "Escalated"
+  },
+  {
+    "log_id": "AUD-2988282",
+    "TransactionID": 2988282,
+    "investigator_note": "REVIEW: Alamat IP dan domain email pembeli tidak sesuai dengan profil kartu terdaftar.",
+    "ticket_status": "Closed-Confirmed"
+  },
+  {
+    "log_id": "AUD-2988355",
+    "TransactionID": 2988355,
+    "investigator_note": "INVESTIGATION: Transaksi nominal tinggi terdeteksi pada merchant kategori berisiko.",
+    "ticket_status": "Closed-Confirmed"
+  },
+  {
+    "log_id": "AUD-2988612",
+    "TransactionID": 2988612,
+    "investigator_note": "URGENT: Nasabah melaporkan transaksi tidak dikenal dari perangkat baru pada dini hari.",
+    "ticket_status": "Closed-Confirmed"
+  },
+  {
+    "log_id": "AUD-2988643",
+    "TransactionID": 2988643,
+    "investigator_note": "INVESTIGATION: Transaksi nominal tinggi terdeteksi pada merchant kategori berisiko.",
+    "ticket_status": "Closed-Confirmed"
+  },
+  {
+    "log_id": "AUD-2988680",
+    "TransactionID": 2988680,
+    "investigator_note": "URGENT: Nasabah melaporkan transaksi tidak dikenal dari perangkat baru pada dini hari.",
+    "ticket_status": "Closed-Confirmed"
+  },
+  {
+    "log_id": "AUD-2988694",
+    "TransactionID": 2988694,
+    "investigator_note": "REVIEW: Alamat IP dan domain email pembeli tidak sesuai dengan profil kartu terdaftar.",
+    "ticket_status": "Escalated"
+  },
+  {
+    "log_id": "AUD-2988702",
+    "TransactionID": 2988702,
+    "investigator_note": "REVIEW: Alamat IP dan domain email pembeli tidak sesuai dengan profil kartu terdaftar.",
+    "ticket_status": "Escalated"
+  },
+  {
+    "log_id": "AUD-2988704",
+    "TransactionID": 2988704,
+    "investigator_note": "URGENT: Nasabah melaporkan transaksi tidak dikenal dari perangkat baru pada dini hari.",
+    "ticket_status": "Closed-Confirmed"
+  },
+  {
+    "log_id": "AUD-2988706",
+    "TransactionID": 2988706,
+    "investigator_note": "REVIEW: Alamat IP dan domain email pembeli tidak sesuai dengan profil kartu terdaftar.",
+    "ticket_status": "Escalated"
+  },
+  {
+    "log_id": "AUD-2988732",
+    "TransactionID": 2988732,
+    "investigator_note": "URGENT: Nasabah melaporkan transaksi tidak dikenal dari perangkat baru pada dini hari.",
+    "ticket_status": "Closed-Confirmed"
+  },
+  {
+    "log_id": "AUD-2988966",
+    "TransactionID": 2988966,
+    "investigator_note": "REVIEW: Alamat IP dan domain email pembeli tidak sesuai dengan profil kartu terdaftar.",
+    "ticket_status": "Escalated"
+  },
+  {
+    "log_id": "AUD-2988992",
+    "TransactionID": 2988992,
+    "investigator_note": "URGENT: Nasabah melaporkan transaksi tidak dikenal dari perangkat baru pada dini hari.",
+    "ticket_status": "Escalated"
+  },
+  {
+    "log_id": "AUD-2989000",
+    "TransactionID": 2989000,
+    "investigator_note": "URGENT: Nasabah melaporkan transaksi tidak dikenal dari perangkat baru pada dini hari.",
+    "ticket_status": "Closed-Confirmed"
+  },
+  {
+    "log_id": "AUD-2989007",
+    "TransactionID": 2989007,
+    "investigator_note": "INVESTIGATION: Transaksi nominal tinggi terdeteksi pada merchant kategori berisiko.",
+    "ticket_status": "Closed-Confirmed"
+  },
+  {
+    "log_id": "AUD-2989041",
+    "TransactionID": 2989041,
+    "investigator_note": "ALERT: Percobaan transaksi berulang dalam waktu singkat melewati batas wajar.",
+    "ticket_status": "Closed-Confirmed"
+  },
+  {
+    "log_id": "AUD-2989059",
+    "TransactionID": 2989059,
+    "investigator_note": "INVESTIGATION: Transaksi nominal tinggi terdeteksi pada merchant kategori berisiko.",
+    "ticket_status": "Closed-Confirmed"
+  },
+  {
+    "log_id": "AUD-2989080",
+    "TransactionID": 2989080,
+    "investigator_note": "URGENT: Nasabah melaporkan transaksi tidak dikenal dari perangkat baru pada dini hari.",
+    "ticket_status": "Closed-Confirmed"
+  },
+  {
+    "log_id": "AUD-2989116",
+    "TransactionID": 2989116,
+    "investigator_note": "URGENT: Nasabah melaporkan transaksi tidak dikenal dari perangkat baru pada dini hari.",
+    "ticket_status": "Escalated"
+  },
+  {
+    "log_id": "AUD-2989302",
+    "TransactionID": 2989302,
+    "investigator_note": "REVIEW: Alamat IP dan domain email pembeli tidak sesuai dengan profil kartu terdaftar.",
+    "ticket_status": "Closed-Confirmed"
+  },
+  {
+    "log_id": "AUD-2989357",
+    "TransactionID": 2989357,
+    "investigator_note": "ALERT: Percobaan transaksi berulang dalam waktu singkat melewati batas wajar.",
+    "ticket_status": "Escalated"
+  },
+  {
+    "log_id": "AUD-2989367",
+    "TransactionID": 2989367,
+    "investigator_note": "INVESTIGATION: Transaksi nominal tinggi terdeteksi pada merchant kategori berisiko.",
+    "ticket_status": "Closed-Confirmed"
+  },
+  {
+    "log_id": "AUD-2989424",
+    "TransactionID": 2989424,
+    "investigator_note": "URGENT: Nasabah melaporkan transaksi tidak dikenal dari perangkat baru pada dini hari.",
+    "ticket_status": "Escalated"
+  },
+  {
+    "log_id": "AUD-2989469",
+    "TransactionID": 2989469,
+    "investigator_note": "ALERT: Percobaan transaksi berulang dalam waktu singkat melewati batas wajar.",
+    "ticket_status": "Closed-Confirmed"
+  },
+  {
+    "log_id": "AUD-2989544",
+    "TransactionID": 2989544,
+    "investigator_note": "URGENT: Nasabah melaporkan transaksi tidak dikenal dari perangkat baru pada dini hari.",
+    "ticket_status": "Escalated"
+  },
+  {
+    "log_id": "AUD-2989569",
+    "TransactionID": 2989569,
+    "investigator_note": "ALERT: Percobaan transaksi berulang dalam waktu singkat melewati batas wajar.",
+    "ticket_status": "Closed-Confirmed"
+  },
+  {
+    "log_id": "AUD-2989598",
+    "TransactionID": 2989598,
+    "investigator_note": "REVIEW: Alamat IP dan domain email pembeli tidak sesuai dengan profil kartu terdaftar.",
+    "ticket_status": "Closed-Confirmed"
+  },
+  {
+    "log_id": "AUD-2989635",
+    "TransactionID": 2989635,
+    "investigator_note": "INVESTIGATION: Transaksi nominal tinggi terdeteksi pada merchant kategori berisiko.",
+    "ticket_status": "Closed-Confirmed"
+  },
+  {
+    "log_id": "AUD-2989829",
+    "TransactionID": 2989829,
+    "investigator_note": "ALERT: Percobaan transaksi berulang dalam waktu singkat melewati batas wajar.",
+    "ticket_status": "Closed-Confirmed"
+  },
+  {
+    "log_id": "AUD-2989940",
+    "TransactionID": 2989940,
+    "investigator_note": "URGENT: Nasabah melaporkan transaksi tidak dikenal dari perangkat baru pada dini hari.",
+    "ticket_status": "Escalated"
+  },
+  {
+    "log_id": "AUD-2989969",
+    "TransactionID": 2989969,
+    "investigator_note": "ALERT: Percobaan transaksi berulang dalam waktu singkat melewati batas wajar.",
+    "ticket_status": "Escalated"
+  },
+  {
+    "log_id": "AUD-2990015",
+    "TransactionID": 2990015,
+    "investigator_note": "INVESTIGATION: Transaksi nominal tinggi terdeteksi pada merchant kategori berisiko.",
+    "ticket_status": "Closed-Confirmed"
+  },
+  {
+    "log_id": "AUD-2990136",
+    "TransactionID": 2990136,
+    "investigator_note": "URGENT: Nasabah melaporkan transaksi tidak dikenal dari perangkat baru pada dini hari.",
+    "ticket_status": "Escalated"
+  },
+  {
+    "log_id": "AUD-2990196",
+    "TransactionID": 2990196,
+    "investigator_note": "URGENT: Nasabah melaporkan transaksi tidak dikenal dari perangkat baru pada dini hari.",
+    "ticket_status": "Escalated"
+  },
+  {
+    "log_id": "AUD-2990200",
+    "TransactionID": 2990200,
+    "investigator_note": "URGENT: Nasabah melaporkan transaksi tidak dikenal dari perangkat baru pada dini hari.",
+    "ticket_status": "Escalated"
+  },
+  {
+    "log_id": "AUD-2990277",
+    "TransactionID": 2990277,
+    "investigator_note": "ALERT: Percobaan transaksi berulang dalam waktu singkat melewati batas wajar.",
+    "ticket_status": "Closed-Confirmed"
+  },
+  {
+    "log_id": "AUD-2990444",
+    "TransactionID": 2990444,
+    "investigator_note": "URGENT: Nasabah melaporkan transaksi tidak dikenal dari perangkat baru pada dini hari.",
+    "ticket_status": "Closed-Confirmed"
+  },
+  {
+    "log_id": "AUD-2990559",
+    "TransactionID": 2990559,
+    "investigator_note": "INVESTIGATION: Transaksi nominal tinggi terdeteksi pada merchant kategori berisiko.",
+    "ticket_status": "Closed-Confirmed"
+  },
+  {
+    "log_id": "AUD-2990583",
+    "TransactionID": 2990583,
+    "investigator_note": "INVESTIGATION: Transaksi nominal tinggi terdeteksi pada merchant kategori berisiko.",
+    "ticket_status": "Closed-Confirmed"
+  },
+  {
+    "log_id": "AUD-2990644",
+    "TransactionID": 2990644,
+    "investigator_note": "URGENT: Nasabah melaporkan transaksi tidak dikenal dari perangkat baru pada dini hari.",
+    "ticket_status": "Closed-Confirmed"
+  },
+  {
+    "log_id": "AUD-2990669",
+    "TransactionID": 2990669,
+    "investigator_note": "ALERT: Percobaan transaksi berulang dalam waktu singkat melewati batas wajar.",
+    "ticket_status": "Closed-Confirmed"
+  },
+  {
+    "log_id": "AUD-2990698",
+    "TransactionID": 2990698,
+    "investigator_note": "REVIEW: Alamat IP dan domain email pembeli tidak sesuai dengan profil kartu terdaftar.",
+    "ticket_status": "Closed-Confirmed"
+  },
+  {
+    "log_id": "AUD-2990704",
+    "TransactionID": 2990704,
+    "investigator_note": "URGENT: Nasabah melaporkan transaksi tidak dikenal dari perangkat baru pada dini hari.",
+    "ticket_status": "Closed-Confirmed"
+  },
+  {
+    "log_id": "AUD-2990706",
+    "TransactionID": 2990706,
+    "investigator_note": "REVIEW: Alamat IP dan domain email pembeli tidak sesuai dengan profil kartu terdaftar.",
+    "ticket_status": "Closed-Confirmed"
+  },
+  {
+    "log_id": "AUD-2990858",
+    "TransactionID": 2990858,
+    "investigator_note": "REVIEW: Alamat IP dan domain email pembeli tidak sesuai dengan profil kartu terdaftar.",
+    "ticket_status": "Closed-Confirmed"
+  },
+  {
+    "log_id": "AUD-2990864",
+    "TransactionID": 2990864,
+    "investigator_note": "URGENT: Nasabah melaporkan transaksi tidak dikenal dari perangkat baru pada dini hari.",
+    "ticket_status": "Closed-Confirmed"
+  },
+  {
+    "log_id": "AUD-2990870",
+    "TransactionID": 2990870,
+    "investigator_note": "REVIEW: Alamat IP dan domain email pembeli tidak sesuai dengan profil kartu terdaftar.",
+    "ticket_status": "Closed-Confirmed"
+  },
+  {
+    "log_id": "AUD-2990874",
+    "TransactionID": 2990874,
+    "investigator_note": "REVIEW: Alamat IP dan domain email pembeli tidak sesuai dengan profil kartu terdaftar.",
+    "ticket_status": "Closed-Confirmed"
+  },
+  {
+    "log_id": "AUD-2990876",
+    "TransactionID": 2990876,
+    "investigator_note": "URGENT: Nasabah melaporkan transaksi tidak dikenal dari perangkat baru pada dini hari.",
+    "ticket_status": "Escalated"
+  },
+  {
+    "log_id": "AUD-2990881",
+    "TransactionID": 2990881,
+    "investigator_note": "ALERT: Percobaan transaksi berulang dalam waktu singkat melewati batas wajar.",
+    "ticket_status": "Closed-Confirmed"
+  },
+  {
+    "log_id": "AUD-2990906",
+    "TransactionID": 2990906,
+    "investigator_note": "REVIEW: Alamat IP dan domain email pembeli tidak sesuai dengan profil kartu terdaftar.",
+    "ticket_status": "Closed-Confirmed"
+  },
+  {
+    "log_id": "AUD-2990907",
+    "TransactionID": 2990907,
+    "investigator_note": "INVESTIGATION: Transaksi nominal tinggi terdeteksi pada merchant kategori berisiko.",
+    "ticket_status": "Closed-Confirmed"
+  },
+  {
+    "log_id": "AUD-2990909",
+    "TransactionID": 2990909,
+    "investigator_note": "ALERT: Percobaan transaksi berulang dalam waktu singkat melewati batas wajar.",
+    "ticket_status": "Closed-Confirmed"
+  },
+  {
+    "log_id": "AUD-2990935",
+    "TransactionID": 2990935,
+    "investigator_note": "INVESTIGATION: Transaksi nominal tinggi terdeteksi pada merchant kategori berisiko.",
+    "ticket_status": "Closed-Confirmed"
+  },
+  {
+    "log_id": "AUD-2990965",
+    "TransactionID": 2990965,
+    "investigator_note": "ALERT: Percobaan transaksi berulang dalam waktu singkat melewati batas wajar.",
+    "ticket_status": "Closed-Confirmed"
+  },
+  {
+    "log_id": "AUD-2991058",
+    "TransactionID": 2991058,
+    "investigator_note": "REVIEW: Alamat IP dan domain email pembeli tidak sesuai dengan profil kartu terdaftar.",
+    "ticket_status": "Closed-Confirmed"
+  },
+  {
+    "log_id": "AUD-2991070",
+    "TransactionID": 2991070,
+    "investigator_note": "REVIEW: Alamat IP dan domain email pembeli tidak sesuai dengan profil kartu terdaftar.",
+    "ticket_status": "Closed-Confirmed"
+  },
+  {
+    "log_id": "AUD-2991078",
+    "TransactionID": 2991078,
+    "investigator_note": "REVIEW: Alamat IP dan domain email pembeli tidak sesuai dengan profil kartu terdaftar.",
+    "ticket_status": "Closed-Confirmed"
+  },
+  {
+    "log_id": "AUD-2991092",
+    "TransactionID": 2991092,
+    "investigator_note": "URGENT: Nasabah melaporkan transaksi tidak dikenal dari perangkat baru pada dini hari.",
+    "ticket_status": "Closed-Confirmed"
+  },
+  {
+    "log_id": "AUD-2991100",
+    "TransactionID": 2991100,
+    "investigator_note": "URGENT: Nasabah melaporkan transaksi tidak dikenal dari perangkat baru pada dini hari.",
+    "ticket_status": "Closed-Confirmed"
+  },
+  {
+    "log_id": "AUD-2991229",
+    "TransactionID": 2991229,
+    "investigator_note": "ALERT: Percobaan transaksi berulang dalam waktu singkat melewati batas wajar.",
+    "ticket_status": "Escalated"
+  },
+  {
+    "log_id": "AUD-2991258",
+    "TransactionID": 2991258,
+    "investigator_note": "REVIEW: Alamat IP dan domain email pembeli tidak sesuai dengan profil kartu terdaftar.",
+    "ticket_status": "Closed-Confirmed"
+  },
+  {
+    "log_id": "AUD-2991270",
+    "TransactionID": 2991270,
+    "investigator_note": "REVIEW: Alamat IP dan domain email pembeli tidak sesuai dengan profil kartu terdaftar.",
+    "ticket_status": "Closed-Confirmed"
+  },
+  {
+    "log_id": "AUD-2991305",
+    "TransactionID": 2991305,
+    "investigator_note": "ALERT: Percobaan transaksi berulang dalam waktu singkat melewati batas wajar.",
+    "ticket_status": "Closed-Confirmed"
+  },
+  {
+    "log_id": "AUD-2991308",
+    "TransactionID": 2991308,
+    "investigator_note": "URGENT: Nasabah melaporkan transaksi tidak dikenal dari perangkat baru pada dini hari.",
+    "ticket_status": "Closed-Confirmed"
+  },
+  {
+    "log_id": "AUD-2991340",
+    "TransactionID": 2991340,
+    "investigator_note": "URGENT: Nasabah melaporkan transaksi tidak dikenal dari perangkat baru pada dini hari.",
+    "ticket_status": "Closed-Confirmed"
+  },
+  {
+    "log_id": "AUD-2991519",
+    "TransactionID": 2991519,
+    "investigator_note": "INVESTIGATION: Transaksi nominal tinggi terdeteksi pada merchant kategori berisiko.",
+    "ticket_status": "Escalated"
+  },
+  {
+    "log_id": "AUD-2991632",
+    "TransactionID": 2991632,
+    "investigator_note": "URGENT: Nasabah melaporkan transaksi tidak dikenal dari perangkat baru pada dini hari.",
+    "ticket_status": "Escalated"
+  },
+  {
+    "log_id": "AUD-2991645",
+    "TransactionID": 2991645,
+    "investigator_note": "ALERT: Percobaan transaksi berulang dalam waktu singkat melewati batas wajar.",
+    "ticket_status": "Escalated"
+  },
+  {
+    "log_id": "AUD-2991650",
+    "TransactionID": 2991650,
+    "investigator_note": "REVIEW: Alamat IP dan domain email pembeli tidak sesuai dengan profil kartu terdaftar.",
+    "ticket_status": "Escalated"
+  },
+  {
+    "log_id": "AUD-2991688",
+    "TransactionID": 2991688,
+    "investigator_note": "URGENT: Nasabah melaporkan transaksi tidak dikenal dari perangkat baru pada dini hari.",
+    "ticket_status": "Closed-Confirmed"
+  },
+  {
+    "log_id": "AUD-2991748",
+    "TransactionID": 2991748,
+    "investigator_note": "URGENT: Nasabah melaporkan transaksi tidak dikenal dari perangkat baru pada dini hari.",
+    "ticket_status": "Closed-Confirmed"
+  },
+  {
+    "log_id": "AUD-2991763",
+    "TransactionID": 2991763,
+    "investigator_note": "INVESTIGATION: Transaksi nominal tinggi terdeteksi pada merchant kategori berisiko.",
+    "ticket_status": "Closed-Confirmed"
+  },
+  {
+    "log_id": "AUD-2991770",
+    "TransactionID": 2991770,
+    "investigator_note": "REVIEW: Alamat IP dan domain email pembeli tidak sesuai dengan profil kartu terdaftar.",
+    "ticket_status": "Closed-Confirmed"
+  },
+  {
+    "log_id": "AUD-2991792",
+    "TransactionID": 2991792,
+    "investigator_note": "URGENT: Nasabah melaporkan transaksi tidak dikenal dari perangkat baru pada dini hari.",
+    "ticket_status": "Closed-Confirmed"
+  },
+  {
+    "log_id": "AUD-2991797",
+    "TransactionID": 2991797,
+    "investigator_note": "ALERT: Percobaan transaksi berulang dalam waktu singkat melewati batas wajar.",
+    "ticket_status": "Closed-Confirmed"
+  },
+  {
+    "log_id": "AUD-2991800",
+    "TransactionID": 2991800,
+    "investigator_note": "URGENT: Nasabah melaporkan transaksi tidak dikenal dari perangkat baru pada dini hari.",
+    "ticket_status": "Closed-Confirmed"
+  },
+  {
+    "log_id": "AUD-2991849",
+    "TransactionID": 2991849,
+    "investigator_note": "ALERT: Percobaan transaksi berulang dalam waktu singkat melewati batas wajar.",
+    "ticket_status": "Closed-Confirmed"
+  },
+  {
+    "log_id": "AUD-2991863",
+    "TransactionID": 2991863,
+    "investigator_note": "INVESTIGATION: Transaksi nominal tinggi terdeteksi pada merchant kategori berisiko.",
+    "ticket_status": "Closed-Confirmed"
+  },
+  {
+    "log_id": "AUD-2991879",
+    "TransactionID": 2991879,
+    "investigator_note": "INVESTIGATION: Transaksi nominal tinggi terdeteksi pada merchant kategori berisiko.",
+    "ticket_status": "Closed-Confirmed"
+  },
+  {
+    "log_id": "AUD-2991954",
+    "TransactionID": 2991954,
+    "investigator_note": "REVIEW: Alamat IP dan domain email pembeli tidak sesuai dengan profil kartu terdaftar.",
+    "ticket_status": "Closed-Confirmed"
+  },
+  {
+    "log_id": "AUD-2992029",
+    "TransactionID": 2992029,
+    "investigator_note": "ALERT: Percobaan transaksi berulang dalam waktu singkat melewati batas wajar.",
+    "ticket_status": "Closed-Confirmed"
+  },
+  {
+    "log_id": "AUD-2992056",
+    "TransactionID": 2992056,
+    "investigator_note": "URGENT: Nasabah melaporkan transaksi tidak dikenal dari perangkat baru pada dini hari.",
+    "ticket_status": "Closed-Confirmed"
+  },
+  {
+    "log_id": "AUD-2992081",
+    "TransactionID": 2992081,
+    "investigator_note": "ALERT: Percobaan transaksi berulang dalam waktu singkat melewati batas wajar.",
+    "ticket_status": "Closed-Confirmed"
+  },
+  {
+    "log_id": "AUD-2992190",
+    "TransactionID": 2992190,
+    "investigator_note": "REVIEW: Alamat IP dan domain email pembeli tidak sesuai dengan profil kartu terdaftar.",
+    "ticket_status": "Closed-Confirmed"
+  },
+  {
+    "log_id": "AUD-2992196",
+    "TransactionID": 2992196,
+    "investigator_note": "URGENT: Nasabah melaporkan transaksi tidak dikenal dari perangkat baru pada dini hari.",
+    "ticket_status": "Closed-Confirmed"
+  },
+  {
+    "log_id": "AUD-2992205",
+    "TransactionID": 2992205,
+    "investigator_note": "ALERT: Percobaan transaksi berulang dalam waktu singkat melewati batas wajar.",
+    "ticket_status": "Closed-Confirmed"
+  },
+  {
+    "log_id": "AUD-2992212",
+    "TransactionID": 2992212,
+    "investigator_note": "URGENT: Nasabah melaporkan transaksi tidak dikenal dari perangkat baru pada dini hari.",
+    "ticket_status": "Closed-Confirmed"
+  },
+  {
+    "log_id": "AUD-2992234",
+    "TransactionID": 2992234,
+    "investigator_note": "REVIEW: Alamat IP dan domain email pembeli tidak sesuai dengan profil kartu terdaftar.",
+    "ticket_status": "Closed-Confirmed"
+  },
+  {
+    "log_id": "AUD-2992240",
+    "TransactionID": 2992240,
+    "investigator_note": "URGENT: Nasabah melaporkan transaksi tidak dikenal dari perangkat baru pada dini hari.",
+    "ticket_status": "Closed-Confirmed"
+  },
+  {
+    "log_id": "AUD-2992358",
+    "TransactionID": 2992358,
+    "investigator_note": "REVIEW: Alamat IP dan domain email pembeli tidak sesuai dengan profil kartu terdaftar.",
+    "ticket_status": "Closed-Confirmed"
+  },
+  {
+    "log_id": "AUD-2992381",
+    "TransactionID": 2992381,
+    "investigator_note": "ALERT: Percobaan transaksi berulang dalam waktu singkat melewati batas wajar.",
+    "ticket_status": "Closed-Confirmed"
+  },
+  {
+    "log_id": "AUD-2992395",
+    "TransactionID": 2992395,
+    "investigator_note": "INVESTIGATION: Transaksi nominal tinggi terdeteksi pada merchant kategori berisiko.",
+    "ticket_status": "Escalated"
+  },
+  {
+    "log_id": "AUD-2992405",
+    "TransactionID": 2992405,
+    "investigator_note": "ALERT: Percobaan transaksi berulang dalam waktu singkat melewati batas wajar.",
+    "ticket_status": "Closed-Confirmed"
+  },
+  {
+    "log_id": "AUD-2992511",
+    "TransactionID": 2992511,
+    "investigator_note": "INVESTIGATION: Transaksi nominal tinggi terdeteksi pada merchant kategori berisiko.",
+    "ticket_status": "Escalated"
+  },
+  {
+    "log_id": "AUD-2992608",
+    "TransactionID": 2992608,
+    "investigator_note": "URGENT: Nasabah melaporkan transaksi tidak dikenal dari perangkat baru pada dini hari.",
+    "ticket_status": "Closed-Confirmed"
+  },
+  {
+    "log_id": "AUD-2992615",
+    "TransactionID": 2992615,
+    "investigator_note": "INVESTIGATION: Transaksi nominal tinggi terdeteksi pada merchant kategori berisiko.",
+    "ticket_status": "Closed-Confirmed"
+  },
+  {
+    "log_id": "AUD-2992617",
+    "TransactionID": 2992617,
+    "investigator_note": "ALERT: Percobaan transaksi berulang dalam waktu singkat melewati batas wajar.",
+    "ticket_status": "Closed-Confirmed"
+  },
+  {
+    "log_id": "AUD-2992621",
+    "TransactionID": 2992621,
+    "investigator_note": "ALERT: Percobaan transaksi berulang dalam waktu singkat melewati batas wajar.",
+    "ticket_status": "Closed-Confirmed"
+  },
+  {
+    "log_id": "AUD-2992626",
+    "TransactionID": 2992626,
+    "investigator_note": "REVIEW: Alamat IP dan domain email pembeli tidak sesuai dengan profil kartu terdaftar.",
+    "ticket_status": "Closed-Confirmed"
+  },
+  {
+    "log_id": "AUD-2992631",
+    "TransactionID": 2992631,
+    "investigator_note": "INVESTIGATION: Transaksi nominal tinggi terdeteksi pada merchant kategori berisiko.",
+    "ticket_status": "Closed-Confirmed"
+  },
+  {
+    "log_id": "AUD-2992632",
+    "TransactionID": 2992632,
+    "investigator_note": "URGENT: Nasabah melaporkan transaksi tidak dikenal dari perangkat baru pada dini hari.",
+    "ticket_status": "Closed-Confirmed"
+  },
+  {
+    "log_id": "AUD-2992646",
+    "TransactionID": 2992646,
+    "investigator_note": "REVIEW: Alamat IP dan domain email pembeli tidak sesuai dengan profil kartu terdaftar.",
+    "ticket_status": "Closed-Confirmed"
+  },
+  {
+    "log_id": "AUD-2992658",
+    "TransactionID": 2992658,
+    "investigator_note": "REVIEW: Alamat IP dan domain email pembeli tidak sesuai dengan profil kartu terdaftar.",
+    "ticket_status": "Closed-Confirmed"
+  },
+  {
+    "log_id": "AUD-2992661",
+    "TransactionID": 2992661,
+    "investigator_note": "ALERT: Percobaan transaksi berulang dalam waktu singkat melewati batas wajar.",
+    "ticket_status": "Closed-Confirmed"
+  },
+  {
+    "log_id": "AUD-2992694",
+    "TransactionID": 2992694,
+    "investigator_note": "REVIEW: Alamat IP dan domain email pembeli tidak sesuai dengan profil kartu terdaftar.",
+    "ticket_status": "Closed-Confirmed"
+  },
+  {
+    "log_id": "AUD-2992737",
+    "TransactionID": 2992737,
+    "investigator_note": "ALERT: Percobaan transaksi berulang dalam waktu singkat melewati batas wajar.",
+    "ticket_status": "Closed-Confirmed"
+  },
+  {
+    "log_id": "AUD-2992747",
+    "TransactionID": 2992747,
+    "investigator_note": "INVESTIGATION: Transaksi nominal tinggi terdeteksi pada merchant kategori berisiko.",
+    "ticket_status": "Closed-Confirmed"
+  },
+  {
+    "log_id": "AUD-2992749",
+    "TransactionID": 2992749,
+    "investigator_note": "ALERT: Percobaan transaksi berulang dalam waktu singkat melewati batas wajar.",
+    "ticket_status": "Closed-Confirmed"
+  },
+  {
+    "log_id": "AUD-2992755",
+    "TransactionID": 2992755,
+    "investigator_note": "INVESTIGATION: Transaksi nominal tinggi terdeteksi pada merchant kategori berisiko.",
+    "ticket_status": "Closed-Confirmed"
+  },
+  {
+    "log_id": "AUD-2992758",
+    "TransactionID": 2992758,
+    "investigator_note": "REVIEW: Alamat IP dan domain email pembeli tidak sesuai dengan profil kartu terdaftar.",
+    "ticket_status": "Closed-Confirmed"
+  },
+  {
+    "log_id": "AUD-2992760",
+    "TransactionID": 2992760,
+    "investigator_note": "URGENT: Nasabah melaporkan transaksi tidak dikenal dari perangkat baru pada dini hari.",
+    "ticket_status": "Closed-Confirmed"
+  },
+  {
+    "log_id": "AUD-2992764",
+    "TransactionID": 2992764,
+    "investigator_note": "URGENT: Nasabah melaporkan transaksi tidak dikenal dari perangkat baru pada dini hari.",
+    "ticket_status": "Closed-Confirmed"
+  },
+  {
+    "log_id": "AUD-2992794",
+    "TransactionID": 2992794,
+    "investigator_note": "REVIEW: Alamat IP dan domain email pembeli tidak sesuai dengan profil kartu terdaftar.",
+    "ticket_status": "Escalated"
+  },
+  {
+    "log_id": "AUD-2992799",
+    "TransactionID": 2992799,
+    "investigator_note": "INVESTIGATION: Transaksi nominal tinggi terdeteksi pada merchant kategori berisiko.",
+    "ticket_status": "Closed-Confirmed"
+  },
+  {
+    "log_id": "AUD-2992894",
+    "TransactionID": 2992894,
+    "investigator_note": "REVIEW: Alamat IP dan domain email pembeli tidak sesuai dengan profil kartu terdaftar.",
+    "ticket_status": "Closed-Confirmed"
+  },
+  {
+    "log_id": "AUD-2992896",
+    "TransactionID": 2992896,
+    "investigator_note": "URGENT: Nasabah melaporkan transaksi tidak dikenal dari perangkat baru pada dini hari.",
+    "ticket_status": "Closed-Confirmed"
+  },
+  {
+    "log_id": "AUD-2992962",
+    "TransactionID": 2992962,
+    "investigator_note": "REVIEW: Alamat IP dan domain email pembeli tidak sesuai dengan profil kartu terdaftar.",
+    "ticket_status": "Closed-Confirmed"
+  },
+  {
+    "log_id": "AUD-2993001",
+    "TransactionID": 2993001,
+    "investigator_note": "ALERT: Percobaan transaksi berulang dalam waktu singkat melewati batas wajar.",
+    "ticket_status": "Closed-Confirmed"
+  },
+  {
+    "log_id": "AUD-2993011",
+    "TransactionID": 2993011,
+    "investigator_note": "INVESTIGATION: Transaksi nominal tinggi terdeteksi pada merchant kategori berisiko.",
+    "ticket_status": "Closed-Confirmed"
+  },
+  {
+    "log_id": "AUD-2993012",
+    "TransactionID": 2993012,
+    "investigator_note": "URGENT: Nasabah melaporkan transaksi tidak dikenal dari perangkat baru pada dini hari.",
+    "ticket_status": "Closed-Confirmed"
+  },
+  {
+    "log_id": "AUD-2993125",
+    "TransactionID": 2993125,
+    "investigator_note": "ALERT: Percobaan transaksi berulang dalam waktu singkat melewati batas wajar.",
+    "ticket_status": "Closed-Confirmed"
+  },
+  {
+    "log_id": "AUD-2993126",
+    "TransactionID": 2993126,
+    "investigator_note": "REVIEW: Alamat IP dan domain email pembeli tidak sesuai dengan profil kartu terdaftar.",
+    "ticket_status": "Closed-Confirmed"
+  },
+  {
+    "log_id": "AUD-2993128",
+    "TransactionID": 2993128,
+    "investigator_note": "URGENT: Nasabah melaporkan transaksi tidak dikenal dari perangkat baru pada dini hari.",
+    "ticket_status": "Closed-Confirmed"
+  },
+  {
+    "log_id": "AUD-2993154",
+    "TransactionID": 2993154,
+    "investigator_note": "REVIEW: Alamat IP dan domain email pembeli tidak sesuai dengan profil kartu terdaftar.",
+    "ticket_status": "Closed-Confirmed"
+  },
+  {
+    "log_id": "AUD-2993220",
+    "TransactionID": 2993220,
+    "investigator_note": "URGENT: Nasabah melaporkan transaksi tidak dikenal dari perangkat baru pada dini hari.",
+    "ticket_status": "Closed-Confirmed"
+  },
+  {
+    "log_id": "AUD-2993238",
+    "TransactionID": 2993238,
+    "investigator_note": "REVIEW: Alamat IP dan domain email pembeli tidak sesuai dengan profil kartu terdaftar.",
+    "ticket_status": "Closed-Confirmed"
+  },
+  {
+    "log_id": "AUD-2993267",
+    "TransactionID": 2993267,
+    "investigator_note": "INVESTIGATION: Transaksi nominal tinggi terdeteksi pada merchant kategori berisiko.",
+    "ticket_status": "Closed-Confirmed"
+  },
+  {
+    "log_id": "AUD-2993269",
+    "TransactionID": 2993269,
+    "investigator_note": "ALERT: Percobaan transaksi berulang dalam waktu singkat melewati batas wajar.",
+    "ticket_status": "Escalated"
+  },
+  {
+    "log_id": "AUD-2993383",
+    "TransactionID": 2993383,
+    "investigator_note": "INVESTIGATION: Transaksi nominal tinggi terdeteksi pada merchant kategori berisiko.",
+    "ticket_status": "Closed-Confirmed"
+  },
+  {
+    "log_id": "AUD-2993407",
+    "TransactionID": 2993407,
+    "investigator_note": "INVESTIGATION: Transaksi nominal tinggi terdeteksi pada merchant kategori berisiko.",
+    "ticket_status": "Closed-Confirmed"
+  },
+  {
+    "log_id": "AUD-2993431",
+    "TransactionID": 2993431,
+    "investigator_note": "INVESTIGATION: Transaksi nominal tinggi terdeteksi pada merchant kategori berisiko.",
+    "ticket_status": "Closed-Confirmed"
+  },
+  {
+    "log_id": "AUD-2993443",
+    "TransactionID": 2993443,
+    "investigator_note": "INVESTIGATION: Transaksi nominal tinggi terdeteksi pada merchant kategori berisiko.",
+    "ticket_status": "Escalated"
+  },
+  {
+    "log_id": "AUD-2993510",
+    "TransactionID": 2993510,
+    "investigator_note": "REVIEW: Alamat IP dan domain email pembeli tidak sesuai dengan profil kartu terdaftar.",
+    "ticket_status": "Closed-Confirmed"
+  },
+  {
+    "log_id": "AUD-2993578",
+    "TransactionID": 2993578,
+    "investigator_note": "REVIEW: Alamat IP dan domain email pembeli tidak sesuai dengan profil kartu terdaftar.",
+    "ticket_status": "Closed-Confirmed"
+  },
+  {
+    "log_id": "AUD-2993583",
+    "TransactionID": 2993583,
+    "investigator_note": "INVESTIGATION: Transaksi nominal tinggi terdeteksi pada merchant kategori berisiko.",
+    "ticket_status": "Closed-Confirmed"
+  },
+  {
+    "log_id": "AUD-2993630",
+    "TransactionID": 2993630,
+    "investigator_note": "REVIEW: Alamat IP dan domain email pembeli tidak sesuai dengan profil kartu terdaftar.",
+    "ticket_status": "Closed-Confirmed"
+  },
+  {
+    "log_id": "AUD-2993717",
+    "TransactionID": 2993717,
+    "investigator_note": "ALERT: Percobaan transaksi berulang dalam waktu singkat melewati batas wajar.",
+    "ticket_status": "Closed-Confirmed"
+  },
+  {
+    "log_id": "AUD-2993729",
+    "TransactionID": 2993729,
+    "investigator_note": "ALERT: Percobaan transaksi berulang dalam waktu singkat melewati batas wajar.",
+    "ticket_status": "Escalated"
+  },
+  {
+    "log_id": "AUD-2993828",
+    "TransactionID": 2993828,
+    "investigator_note": "URGENT: Nasabah melaporkan transaksi tidak dikenal dari perangkat baru pada dini hari.",
+    "ticket_status": "Closed-Confirmed"
+  },
+  {
+    "log_id": "AUD-2993839",
+    "TransactionID": 2993839,
+    "investigator_note": "INVESTIGATION: Transaksi nominal tinggi terdeteksi pada merchant kategori berisiko.",
+    "ticket_status": "Closed-Confirmed"
+  },
+  {
+    "log_id": "AUD-2993924",
+    "TransactionID": 2993924,
+    "investigator_note": "URGENT: Nasabah melaporkan transaksi tidak dikenal dari perangkat baru pada dini hari.",
+    "ticket_status": "Closed-Confirmed"
+  },
+  {
+    "log_id": "AUD-2993929",
+    "TransactionID": 2993929,
+    "investigator_note": "ALERT: Percobaan transaksi berulang dalam waktu singkat melewati batas wajar.",
+    "ticket_status": "Closed-Confirmed"
+  },
+  {
+    "log_id": "AUD-2993949",
+    "TransactionID": 2993949,
+    "investigator_note": "ALERT: Percobaan transaksi berulang dalam waktu singkat melewati batas wajar.",
+    "ticket_status": "Closed-Confirmed"
+  },
+  {
+    "log_id": "AUD-2994012",
+    "TransactionID": 2994012,
+    "investigator_note": "URGENT: Nasabah melaporkan transaksi tidak dikenal dari perangkat baru pada dini hari.",
+    "ticket_status": "Closed-Confirmed"
+  },
+  {
+    "log_id": "AUD-2994108",
+    "TransactionID": 2994108,
+    "investigator_note": "URGENT: Nasabah melaporkan transaksi tidak dikenal dari perangkat baru pada dini hari.",
+    "ticket_status": "Closed-Confirmed"
+  },
+  {
+    "log_id": "AUD-2994121",
+    "TransactionID": 2994121,
+    "investigator_note": "ALERT: Percobaan transaksi berulang dalam waktu singkat melewati batas wajar.",
+    "ticket_status": "Closed-Confirmed"
+  },
+  {
+    "log_id": "AUD-2994123",
+    "TransactionID": 2994123,
+    "investigator_note": "INVESTIGATION: Transaksi nominal tinggi terdeteksi pada merchant kategori berisiko.",
+    "ticket_status": "Closed-Confirmed"
+  },
+  {
+    "log_id": "AUD-2994126",
+    "TransactionID": 2994126,
+    "investigator_note": "REVIEW: Alamat IP dan domain email pembeli tidak sesuai dengan profil kartu terdaftar.",
+    "ticket_status": "Closed-Confirmed"
+  },
+  {
+    "log_id": "AUD-2994379",
+    "TransactionID": 2994379,
+    "investigator_note": "INVESTIGATION: Transaksi nominal tinggi terdeteksi pada merchant kategori berisiko.",
+    "ticket_status": "Closed-Confirmed"
+  },
+  {
+    "log_id": "AUD-2994382",
+    "TransactionID": 2994382,
+    "investigator_note": "REVIEW: Alamat IP dan domain email pembeli tidak sesuai dengan profil kartu terdaftar.",
+    "ticket_status": "Closed-Confirmed"
+  },
+  {
+    "log_id": "AUD-2994443",
+    "TransactionID": 2994443,
+    "investigator_note": "INVESTIGATION: Transaksi nominal tinggi terdeteksi pada merchant kategori berisiko.",
+    "ticket_status": "Closed-Confirmed"
+  },
+  {
+    "log_id": "AUD-2994462",
+    "TransactionID": 2994462,
+    "investigator_note": "REVIEW: Alamat IP dan domain email pembeli tidak sesuai dengan profil kartu terdaftar.",
+    "ticket_status": "Escalated"
+  },
+  {
+    "log_id": "AUD-2994467",
+    "TransactionID": 2994467,
+    "investigator_note": "INVESTIGATION: Transaksi nominal tinggi terdeteksi pada merchant kategori berisiko.",
+    "ticket_status": "Closed-Confirmed"
+  },
+  {
+    "log_id": "AUD-2994612",
+    "TransactionID": 2994612,
+    "investigator_note": "URGENT: Nasabah melaporkan transaksi tidak dikenal dari perangkat baru pada dini hari.",
+    "ticket_status": "Closed-Confirmed"
+  },
+  {
+    "log_id": "AUD-2994663",
+    "TransactionID": 2994663,
+    "investigator_note": "INVESTIGATION: Transaksi nominal tinggi terdeteksi pada merchant kategori berisiko.",
+    "ticket_status": "Escalated"
+  },
+  {
+    "log_id": "AUD-2994713",
+    "TransactionID": 2994713,
+    "investigator_note": "ALERT: Percobaan transaksi berulang dalam waktu singkat melewati batas wajar.",
+    "ticket_status": "Closed-Confirmed"
+  },
+  {
+    "log_id": "AUD-2994876",
+    "TransactionID": 2994876,
+    "investigator_note": "URGENT: Nasabah melaporkan transaksi tidak dikenal dari perangkat baru pada dini hari.",
+    "ticket_status": "Closed-Confirmed"
+  },
+  {
+    "log_id": "AUD-2994881",
+    "TransactionID": 2994881,
+    "investigator_note": "ALERT: Percobaan transaksi berulang dalam waktu singkat melewati batas wajar.",
+    "ticket_status": "Closed-Confirmed"
+  },
+  {
+    "log_id": "AUD-2994991",
+    "TransactionID": 2994991,
+    "investigator_note": "INVESTIGATION: Transaksi nominal tinggi terdeteksi pada merchant kategori berisiko.",
+    "ticket_status": "Closed-Confirmed"
+  },
+  {
+    "log_id": "AUD-2995007",
+    "TransactionID": 2995007,
+    "investigator_note": "INVESTIGATION: Transaksi nominal tinggi terdeteksi pada merchant kategori berisiko.",
+    "ticket_status": "Closed-Confirmed"
+  },
+  {
+    "log_id": "AUD-2995021",
+    "TransactionID": 2995021,
+    "investigator_note": "ALERT: Percobaan transaksi berulang dalam waktu singkat melewati batas wajar.",
+    "ticket_status": "Closed-Confirmed"
+  },
+  {
+    "log_id": "AUD-2995029",
+    "TransactionID": 2995029,
+    "investigator_note": "ALERT: Percobaan transaksi berulang dalam waktu singkat melewati batas wajar.",
+    "ticket_status": "Escalated"
+  },
+  {
+    "log_id": "AUD-2995056",
+    "TransactionID": 2995056,
+    "investigator_note": "URGENT: Nasabah melaporkan transaksi tidak dikenal dari perangkat baru pada dini hari.",
+    "ticket_status": "Escalated"
+  },
+  {
+    "log_id": "AUD-2995075",
+    "TransactionID": 2995075,
+    "investigator_note": "INVESTIGATION: Transaksi nominal tinggi terdeteksi pada merchant kategori berisiko.",
+    "ticket_status": "Closed-Confirmed"
+  },
+  {
+    "log_id": "AUD-2995079",
+    "TransactionID": 2995079,
+    "investigator_note": "INVESTIGATION: Transaksi nominal tinggi terdeteksi pada merchant kategori berisiko.",
+    "ticket_status": "Closed-Confirmed"
+  },
+  {
+    "log_id": "AUD-2995089",
+    "TransactionID": 2995089,
+    "investigator_note": "ALERT: Percobaan transaksi berulang dalam waktu singkat melewati batas wajar.",
+    "ticket_status": "Closed-Confirmed"
+  },
+  {
+    "log_id": "AUD-2995090",
+    "TransactionID": 2995090,
+    "investigator_note": "REVIEW: Alamat IP dan domain email pembeli tidak sesuai dengan profil kartu terdaftar.",
+    "ticket_status": "Closed-Confirmed"
+  },
+  {
+    "log_id": "AUD-2995095",
+    "TransactionID": 2995095,
+    "investigator_note": "INVESTIGATION: Transaksi nominal tinggi terdeteksi pada merchant kategori berisiko.",
+    "ticket_status": "Closed-Confirmed"
+  },
+  {
+    "log_id": "AUD-2995123",
+    "TransactionID": 2995123,
+    "investigator_note": "INVESTIGATION: Transaksi nominal tinggi terdeteksi pada merchant kategori berisiko.",
+    "ticket_status": "Escalated"
+  },
+  {
+    "log_id": "AUD-2995141",
+    "TransactionID": 2995141,
+    "investigator_note": "ALERT: Percobaan transaksi berulang dalam waktu singkat melewati batas wajar.",
+    "ticket_status": "Closed-Confirmed"
+  },
+  {
+    "log_id": "AUD-2995149",
+    "TransactionID": 2995149,
+    "investigator_note": "ALERT: Percobaan transaksi berulang dalam waktu singkat melewati batas wajar.",
+    "ticket_status": "Closed-Confirmed"
+  },
+  {
+    "log_id": "AUD-2995157",
+    "TransactionID": 2995157,
+    "investigator_note": "ALERT: Percobaan transaksi berulang dalam waktu singkat melewati batas wajar.",
+    "ticket_status": "Closed-Confirmed"
+  },
+  {
+    "log_id": "AUD-2995172",
+    "TransactionID": 2995172,
+    "investigator_note": "URGENT: Nasabah melaporkan transaksi tidak dikenal dari perangkat baru pada dini hari.",
+    "ticket_status": "Closed-Confirmed"
+  },
+  {
+    "log_id": "AUD-2995176",
+    "TransactionID": 2995176,
+    "investigator_note": "URGENT: Nasabah melaporkan transaksi tidak dikenal dari perangkat baru pada dini hari.",
+    "ticket_status": "Closed-Confirmed"
+  },
+  {
+    "log_id": "AUD-2995267",
+    "TransactionID": 2995267,
+    "investigator_note": "INVESTIGATION: Transaksi nominal tinggi terdeteksi pada merchant kategori berisiko.",
+    "ticket_status": "Escalated"
+  },
+  {
+    "log_id": "AUD-2995293",
+    "TransactionID": 2995293,
+    "investigator_note": "ALERT: Percobaan transaksi berulang dalam waktu singkat melewati batas wajar.",
+    "ticket_status": "Closed-Confirmed"
+  },
+  {
+    "log_id": "AUD-2995311",
+    "TransactionID": 2995311,
+    "investigator_note": "INVESTIGATION: Transaksi nominal tinggi terdeteksi pada merchant kategori berisiko.",
+    "ticket_status": "Escalated"
+  },
+  {
+    "log_id": "AUD-2995323",
+    "TransactionID": 2995323,
+    "investigator_note": "INVESTIGATION: Transaksi nominal tinggi terdeteksi pada merchant kategori berisiko.",
+    "ticket_status": "Escalated"
+  },
+  {
+    "log_id": "AUD-2995355",
+    "TransactionID": 2995355,
+    "investigator_note": "INVESTIGATION: Transaksi nominal tinggi terdeteksi pada merchant kategori berisiko.",
+    "ticket_status": "Closed-Confirmed"
+  },
+  {
+    "log_id": "AUD-2995369",
+    "TransactionID": 2995369,
+    "investigator_note": "ALERT: Percobaan transaksi berulang dalam waktu singkat melewati batas wajar.",
+    "ticket_status": "Escalated"
+  },
+  {
+    "log_id": "AUD-2995387",
+    "TransactionID": 2995387,
+    "investigator_note": "INVESTIGATION: Transaksi nominal tinggi terdeteksi pada merchant kategori berisiko.",
+    "ticket_status": "Escalated"
+  },
+  {
+    "log_id": "AUD-2995395",
+    "TransactionID": 2995395,
+    "investigator_note": "INVESTIGATION: Transaksi nominal tinggi terdeteksi pada merchant kategori berisiko.",
+    "ticket_status": "Escalated"
+  },
+  {
+    "log_id": "AUD-2995416",
+    "TransactionID": 2995416,
+    "investigator_note": "URGENT: Nasabah melaporkan transaksi tidak dikenal dari perangkat baru pada dini hari.",
+    "ticket_status": "Closed-Confirmed"
+  },
+  {
+    "log_id": "AUD-2995418",
+    "TransactionID": 2995418,
+    "investigator_note": "REVIEW: Alamat IP dan domain email pembeli tidak sesuai dengan profil kartu terdaftar.",
+    "ticket_status": "Closed-Confirmed"
+  },
+  {
+    "log_id": "AUD-2995488",
+    "TransactionID": 2995488,
+    "investigator_note": "URGENT: Nasabah melaporkan transaksi tidak dikenal dari perangkat baru pada dini hari.",
+    "ticket_status": "Closed-Confirmed"
+  },
+  {
+    "log_id": "AUD-2995492",
+    "TransactionID": 2995492,
+    "investigator_note": "URGENT: Nasabah melaporkan transaksi tidak dikenal dari perangkat baru pada dini hari.",
+    "ticket_status": "Closed-Confirmed"
+  },
+  {
+    "log_id": "AUD-2995499",
+    "TransactionID": 2995499,
+    "investigator_note": "INVESTIGATION: Transaksi nominal tinggi terdeteksi pada merchant kategori berisiko.",
+    "ticket_status": "Closed-Confirmed"
+  },
+  {
+    "log_id": "AUD-2995504",
+    "TransactionID": 2995504,
+    "investigator_note": "URGENT: Nasabah melaporkan transaksi tidak dikenal dari perangkat baru pada dini hari.",
+    "ticket_status": "Closed-Confirmed"
+  },
+  {
+    "log_id": "AUD-2995516",
+    "TransactionID": 2995516,
+    "investigator_note": "URGENT: Nasabah melaporkan transaksi tidak dikenal dari perangkat baru pada dini hari.",
+    "ticket_status": "Closed-Confirmed"
+  },
+  {
+    "log_id": "AUD-2995532",
+    "TransactionID": 2995532,
+    "investigator_note": "URGENT: Nasabah melaporkan transaksi tidak dikenal dari perangkat baru pada dini hari.",
+    "ticket_status": "Closed-Confirmed"
+  },
+  {
+    "log_id": "AUD-2995594",
+    "TransactionID": 2995594,
+    "investigator_note": "REVIEW: Alamat IP dan domain email pembeli tidak sesuai dengan profil kartu terdaftar.",
+    "ticket_status": "Closed-Confirmed"
+  },
+  {
+    "log_id": "AUD-2995602",
+    "TransactionID": 2995602,
+    "investigator_note": "REVIEW: Alamat IP dan domain email pembeli tidak sesuai dengan profil kartu terdaftar.",
+    "ticket_status": "Closed-Confirmed"
+  },
+  {
+    "log_id": "AUD-2995619",
+    "TransactionID": 2995619,
+    "investigator_note": "INVESTIGATION: Transaksi nominal tinggi terdeteksi pada merchant kategori berisiko.",
+    "ticket_status": "Closed-Confirmed"
+  },
+  {
+    "log_id": "AUD-2995629",
+    "TransactionID": 2995629,
+    "investigator_note": "ALERT: Percobaan transaksi berulang dalam waktu singkat melewati batas wajar.",
+    "ticket_status": "Closed-Confirmed"
+  },
+  {
+    "log_id": "AUD-2995699",
+    "TransactionID": 2995699,
+    "investigator_note": "INVESTIGATION: Transaksi nominal tinggi terdeteksi pada merchant kategori berisiko.",
+    "ticket_status": "Closed-Confirmed"
+  },
+  {
+    "log_id": "AUD-2995705",
+    "TransactionID": 2995705,
+    "investigator_note": "ALERT: Percobaan transaksi berulang dalam waktu singkat melewati batas wajar.",
+    "ticket_status": "Closed-Confirmed"
+  },
+  {
+    "log_id": "AUD-2995707",
+    "TransactionID": 2995707,
+    "investigator_note": "INVESTIGATION: Transaksi nominal tinggi terdeteksi pada merchant kategori berisiko.",
+    "ticket_status": "Closed-Confirmed"
+  },
+  {
+    "log_id": "AUD-2995711",
+    "TransactionID": 2995711,
+    "investigator_note": "INVESTIGATION: Transaksi nominal tinggi terdeteksi pada merchant kategori berisiko.",
+    "ticket_status": "Closed-Confirmed"
+  },
+  {
+    "log_id": "AUD-2995715",
+    "TransactionID": 2995715,
+    "investigator_note": "INVESTIGATION: Transaksi nominal tinggi terdeteksi pada merchant kategori berisiko.",
+    "ticket_status": "Closed-Confirmed"
+  },
+  {
+    "log_id": "AUD-2995769",
+    "TransactionID": 2995769,
+    "investigator_note": "ALERT: Percobaan transaksi berulang dalam waktu singkat melewati batas wajar.",
+    "ticket_status": "Closed-Confirmed"
+  },
+  {
+    "log_id": "AUD-2995775",
+    "TransactionID": 2995775,
+    "investigator_note": "INVESTIGATION: Transaksi nominal tinggi terdeteksi pada merchant kategori berisiko.",
+    "ticket_status": "Closed-Confirmed"
+  },
+  {
+    "log_id": "AUD-2995777",
+    "TransactionID": 2995777,
+    "investigator_note": "ALERT: Percobaan transaksi berulang dalam waktu singkat melewati batas wajar.",
+    "ticket_status": "Closed-Confirmed"
+  },
+  {
+    "log_id": "AUD-2995783",
+    "TransactionID": 2995783,
+    "investigator_note": "INVESTIGATION: Transaksi nominal tinggi terdeteksi pada merchant kategori berisiko.",
+    "ticket_status": "Closed-Confirmed"
+  },
+  {
+    "log_id": "AUD-2995792",
+    "TransactionID": 2995792,
+    "investigator_note": "URGENT: Nasabah melaporkan transaksi tidak dikenal dari perangkat baru pada dini hari.",
+    "ticket_status": "Closed-Confirmed"
+  },
+  {
+    "log_id": "AUD-2995793",
+    "TransactionID": 2995793,
+    "investigator_note": "ALERT: Percobaan transaksi berulang dalam waktu singkat melewati batas wajar.",
+    "ticket_status": "Closed-Confirmed"
+  },
+  {
+    "log_id": "AUD-2995801",
+    "TransactionID": 2995801,
+    "investigator_note": "ALERT: Percobaan transaksi berulang dalam waktu singkat melewati batas wajar.",
+    "ticket_status": "Closed-Confirmed"
+  },
+  {
+    "log_id": "AUD-2995862",
+    "TransactionID": 2995862,
+    "investigator_note": "REVIEW: Alamat IP dan domain email pembeli tidak sesuai dengan profil kartu terdaftar.",
+    "ticket_status": "Closed-Confirmed"
+  },
+  {
+    "log_id": "AUD-2995936",
+    "TransactionID": 2995936,
+    "investigator_note": "URGENT: Nasabah melaporkan transaksi tidak dikenal dari perangkat baru pada dini hari.",
+    "ticket_status": "Closed-Confirmed"
+  },
+  {
+    "log_id": "AUD-2995976",
+    "TransactionID": 2995976,
+    "investigator_note": "URGENT: Nasabah melaporkan transaksi tidak dikenal dari perangkat baru pada dini hari.",
+    "ticket_status": "Closed-Confirmed"
+  },
+  {
+    "log_id": "AUD-2995979",
+    "TransactionID": 2995979,
+    "investigator_note": "INVESTIGATION: Transaksi nominal tinggi terdeteksi pada merchant kategori berisiko.",
+    "ticket_status": "Closed-Confirmed"
+  },
+  {
+    "log_id": "AUD-2996016",
+    "TransactionID": 2996016,
+    "investigator_note": "URGENT: Nasabah melaporkan transaksi tidak dikenal dari perangkat baru pada dini hari.",
+    "ticket_status": "Escalated"
+  },
+  {
+    "log_id": "AUD-2996041",
+    "TransactionID": 2996041,
+    "investigator_note": "ALERT: Percobaan transaksi berulang dalam waktu singkat melewati batas wajar.",
+    "ticket_status": "Closed-Confirmed"
+  },
+  {
+    "log_id": "AUD-2996144",
+    "TransactionID": 2996144,
+    "investigator_note": "URGENT: Nasabah melaporkan transaksi tidak dikenal dari perangkat baru pada dini hari.",
+    "ticket_status": "Escalated"
+  },
+  {
+    "log_id": "AUD-2996232",
+    "TransactionID": 2996232,
+    "investigator_note": "URGENT: Nasabah melaporkan transaksi tidak dikenal dari perangkat baru pada dini hari.",
+    "ticket_status": "Closed-Confirmed"
+  },
+  {
+    "log_id": "AUD-2996246",
+    "TransactionID": 2996246,
+    "investigator_note": "REVIEW: Alamat IP dan domain email pembeli tidak sesuai dengan profil kartu terdaftar.",
+    "ticket_status": "Escalated"
+  },
+  {
+    "log_id": "AUD-2996391",
+    "TransactionID": 2996391,
+    "investigator_note": "INVESTIGATION: Transaksi nominal tinggi terdeteksi pada merchant kategori berisiko.",
+    "ticket_status": "Closed-Confirmed"
+  },
+  {
+    "log_id": "AUD-2996471",
+    "TransactionID": 2996471,
+    "investigator_note": "INVESTIGATION: Transaksi nominal tinggi terdeteksi pada merchant kategori berisiko.",
+    "ticket_status": "Closed-Confirmed"
+  },
+  {
+    "log_id": "AUD-2996479",
+    "TransactionID": 2996479,
+    "investigator_note": "INVESTIGATION: Transaksi nominal tinggi terdeteksi pada merchant kategori berisiko.",
+    "ticket_status": "Closed-Confirmed"
+  },
+  {
+    "log_id": "AUD-2996493",
+    "TransactionID": 2996493,
+    "investigator_note": "ALERT: Percobaan transaksi berulang dalam waktu singkat melewati batas wajar.",
+    "ticket_status": "Escalated"
+  },
+  {
+    "log_id": "AUD-2996503",
+    "TransactionID": 2996503,
+    "investigator_note": "INVESTIGATION: Transaksi nominal tinggi terdeteksi pada merchant kategori berisiko.",
+    "ticket_status": "Closed-Confirmed"
+  },
+  {
+    "log_id": "AUD-2996518",
+    "TransactionID": 2996518,
+    "investigator_note": "REVIEW: Alamat IP dan domain email pembeli tidak sesuai dengan profil kartu terdaftar.",
+    "ticket_status": "Closed-Confirmed"
+  },
+  {
+    "log_id": "AUD-2996531",
+    "TransactionID": 2996531,
+    "investigator_note": "INVESTIGATION: Transaksi nominal tinggi terdeteksi pada merchant kategori berisiko.",
+    "ticket_status": "Closed-Confirmed"
+  },
+  {
+    "log_id": "AUD-2996535",
+    "TransactionID": 2996535,
+    "investigator_note": "INVESTIGATION: Transaksi nominal tinggi terdeteksi pada merchant kategori berisiko.",
+    "ticket_status": "Closed-Confirmed"
+  },
+  {
+    "log_id": "AUD-2996562",
+    "TransactionID": 2996562,
+    "investigator_note": "REVIEW: Alamat IP dan domain email pembeli tidak sesuai dengan profil kartu terdaftar.",
+    "ticket_status": "Closed-Confirmed"
+  },
+  {
+    "log_id": "AUD-2996564",
+    "TransactionID": 2996564,
+    "investigator_note": "URGENT: Nasabah melaporkan transaksi tidak dikenal dari perangkat baru pada dini hari.",
+    "ticket_status": "Closed-Confirmed"
+  },
+  {
+    "log_id": "AUD-2996612",
+    "TransactionID": 2996612,
+    "investigator_note": "URGENT: Nasabah melaporkan transaksi tidak dikenal dari perangkat baru pada dini hari.",
+    "ticket_status": "Closed-Confirmed"
+  },
+  {
+    "log_id": "AUD-2996639",
+    "TransactionID": 2996639,
+    "investigator_note": "INVESTIGATION: Transaksi nominal tinggi terdeteksi pada merchant kategori berisiko.",
+    "ticket_status": "Closed-Confirmed"
+  },
+  {
+    "log_id": "AUD-2996665",
+    "TransactionID": 2996665,
+    "investigator_note": "ALERT: Percobaan transaksi berulang dalam waktu singkat melewati batas wajar.",
+    "ticket_status": "Escalated"
+  },
+  {
+    "log_id": "AUD-2996677",
+    "TransactionID": 2996677,
+    "investigator_note": "ALERT: Percobaan transaksi berulang dalam waktu singkat melewati batas wajar.",
+    "ticket_status": "Closed-Confirmed"
+  },
+  {
+    "log_id": "AUD-2996694",
+    "TransactionID": 2996694,
+    "investigator_note": "REVIEW: Alamat IP dan domain email pembeli tidak sesuai dengan profil kartu terdaftar.",
+    "ticket_status": "Closed-Confirmed"
+  },
+  {
+    "log_id": "AUD-2996742",
+    "TransactionID": 2996742,
+    "investigator_note": "REVIEW: Alamat IP dan domain email pembeli tidak sesuai dengan profil kartu terdaftar.",
+    "ticket_status": "Closed-Confirmed"
+  },
+  {
+    "log_id": "AUD-2996785",
+    "TransactionID": 2996785,
+    "investigator_note": "ALERT: Percobaan transaksi berulang dalam waktu singkat melewati batas wajar.",
+    "ticket_status": "Closed-Confirmed"
+  },
+  {
+    "log_id": "AUD-2996786",
+    "TransactionID": 2996786,
+    "investigator_note": "REVIEW: Alamat IP dan domain email pembeli tidak sesuai dengan profil kartu terdaftar.",
+    "ticket_status": "Closed-Confirmed"
+  },
+  {
+    "log_id": "AUD-2996788",
+    "TransactionID": 2996788,
+    "investigator_note": "URGENT: Nasabah melaporkan transaksi tidak dikenal dari perangkat baru pada dini hari.",
+    "ticket_status": "Closed-Confirmed"
+  },
+  {
+    "log_id": "AUD-2996790",
+    "TransactionID": 2996790,
+    "investigator_note": "REVIEW: Alamat IP dan domain email pembeli tidak sesuai dengan profil kartu terdaftar.",
+    "ticket_status": "Closed-Confirmed"
+  },
+  {
+    "log_id": "AUD-2996858",
+    "TransactionID": 2996858,
+    "investigator_note": "REVIEW: Alamat IP dan domain email pembeli tidak sesuai dengan profil kartu terdaftar.",
+    "ticket_status": "Closed-Confirmed"
+  },
+  {
+    "log_id": "AUD-2997016",
+    "TransactionID": 2997016,
+    "investigator_note": "URGENT: Nasabah melaporkan transaksi tidak dikenal dari perangkat baru pada dini hari.",
+    "ticket_status": "Escalated"
+  },
+  {
+    "log_id": "AUD-2997022",
+    "TransactionID": 2997022,
+    "investigator_note": "REVIEW: Alamat IP dan domain email pembeli tidak sesuai dengan profil kartu terdaftar.",
+    "ticket_status": "Closed-Confirmed"
+  },
+  {
+    "log_id": "AUD-2997046",
+    "TransactionID": 2997046,
+    "investigator_note": "REVIEW: Alamat IP dan domain email pembeli tidak sesuai dengan profil kartu terdaftar.",
+    "ticket_status": "Escalated"
+  },
+  {
+    "log_id": "AUD-2997136",
+    "TransactionID": 2997136,
+    "investigator_note": "URGENT: Nasabah melaporkan transaksi tidak dikenal dari perangkat baru pada dini hari.",
+    "ticket_status": "Closed-Confirmed"
+  },
+  {
+    "log_id": "AUD-2997243",
+    "TransactionID": 2997243,
+    "investigator_note": "INVESTIGATION: Transaksi nominal tinggi terdeteksi pada merchant kategori berisiko.",
+    "ticket_status": "Escalated"
+  },
+  {
+    "log_id": "AUD-2997247",
+    "TransactionID": 2997247,
+    "investigator_note": "INVESTIGATION: Transaksi nominal tinggi terdeteksi pada merchant kategori berisiko.",
+    "ticket_status": "Escalated"
+  },
+  {
+    "log_id": "AUD-2997259",
+    "TransactionID": 2997259,
+    "investigator_note": "INVESTIGATION: Transaksi nominal tinggi terdeteksi pada merchant kategori berisiko.",
+    "ticket_status": "Closed-Confirmed"
+  },
+  {
+    "log_id": "AUD-2997266",
+    "TransactionID": 2997266,
+    "investigator_note": "REVIEW: Alamat IP dan domain email pembeli tidak sesuai dengan profil kartu terdaftar.",
+    "ticket_status": "Closed-Confirmed"
+  },
+  {
+    "log_id": "AUD-2997278",
+    "TransactionID": 2997278,
+    "investigator_note": "REVIEW: Alamat IP dan domain email pembeli tidak sesuai dengan profil kartu terdaftar.",
+    "ticket_status": "Closed-Confirmed"
+  },
+  {
+    "log_id": "AUD-2997306",
+    "TransactionID": 2997306,
+    "investigator_note": "REVIEW: Alamat IP dan domain email pembeli tidak sesuai dengan profil kartu terdaftar.",
+    "ticket_status": "Closed-Confirmed"
+  },
+  {
+    "log_id": "AUD-2997322",
+    "TransactionID": 2997322,
+    "investigator_note": "REVIEW: Alamat IP dan domain email pembeli tidak sesuai dengan profil kartu terdaftar.",
+    "ticket_status": "Closed-Confirmed"
+  },
+  {
+    "log_id": "AUD-2997339",
+    "TransactionID": 2997339,
+    "investigator_note": "INVESTIGATION: Transaksi nominal tinggi terdeteksi pada merchant kategori berisiko.",
+    "ticket_status": "Closed-Confirmed"
+  },
+  {
+    "log_id": "AUD-2997352",
+    "TransactionID": 2997352,
+    "investigator_note": "URGENT: Nasabah melaporkan transaksi tidak dikenal dari perangkat baru pada dini hari.",
+    "ticket_status": "Closed-Confirmed"
+  },
+  {
+    "log_id": "AUD-2997366",
+    "TransactionID": 2997366,
+    "investigator_note": "REVIEW: Alamat IP dan domain email pembeli tidak sesuai dengan profil kartu terdaftar.",
+    "ticket_status": "Closed-Confirmed"
+  },
+  {
+    "log_id": "AUD-2997379",
+    "TransactionID": 2997379,
+    "investigator_note": "INVESTIGATION: Transaksi nominal tinggi terdeteksi pada merchant kategori berisiko.",
+    "ticket_status": "Closed-Confirmed"
+  },
+  {
+    "log_id": "AUD-2997390",
+    "TransactionID": 2997390,
+    "investigator_note": "REVIEW: Alamat IP dan domain email pembeli tidak sesuai dengan profil kartu terdaftar.",
+    "ticket_status": "Closed-Confirmed"
+  },
+  {
+    "log_id": "AUD-2997419",
+    "TransactionID": 2997419,
+    "investigator_note": "INVESTIGATION: Transaksi nominal tinggi terdeteksi pada merchant kategori berisiko.",
+    "ticket_status": "Closed-Confirmed"
+  },
+  {
+    "log_id": "AUD-2997458",
+    "TransactionID": 2997458,
+    "investigator_note": "REVIEW: Alamat IP dan domain email pembeli tidak sesuai dengan profil kartu terdaftar.",
+    "ticket_status": "Escalated"
+  },
+  {
+    "log_id": "AUD-2997592",
+    "TransactionID": 2997592,
+    "investigator_note": "URGENT: Nasabah melaporkan transaksi tidak dikenal dari perangkat baru pada dini hari.",
+    "ticket_status": "Closed-Confirmed"
+  },
+  {
+    "log_id": "AUD-2997610",
+    "TransactionID": 2997610,
+    "investigator_note": "REVIEW: Alamat IP dan domain email pembeli tidak sesuai dengan profil kartu terdaftar.",
+    "ticket_status": "Escalated"
+  },
+  {
+    "log_id": "AUD-2997711",
+    "TransactionID": 2997711,
+    "investigator_note": "INVESTIGATION: Transaksi nominal tinggi terdeteksi pada merchant kategori berisiko.",
+    "ticket_status": "Closed-Confirmed"
+  },
+  {
+    "log_id": "AUD-2997719",
+    "TransactionID": 2997719,
+    "investigator_note": "INVESTIGATION: Transaksi nominal tinggi terdeteksi pada merchant kategori berisiko.",
+    "ticket_status": "Closed-Confirmed"
+  },
+  {
+    "log_id": "AUD-2997776",
+    "TransactionID": 2997776,
+    "investigator_note": "URGENT: Nasabah melaporkan transaksi tidak dikenal dari perangkat baru pada dini hari.",
+    "ticket_status": "Closed-Confirmed"
+  },
+  {
+    "log_id": "AUD-2997787",
+    "TransactionID": 2997787,
+    "investigator_note": "INVESTIGATION: Transaksi nominal tinggi terdeteksi pada merchant kategori berisiko.",
+    "ticket_status": "Escalated"
+  },
+  {
+    "log_id": "AUD-2997868",
+    "TransactionID": 2997868,
+    "investigator_note": "URGENT: Nasabah melaporkan transaksi tidak dikenal dari perangkat baru pada dini hari.",
+    "ticket_status": "Closed-Confirmed"
+  },
+  {
+    "log_id": "AUD-2997887",
+    "TransactionID": 2997887,
+    "investigator_note": "INVESTIGATION: Transaksi nominal tinggi terdeteksi pada merchant kategori berisiko.",
+    "ticket_status": "Closed-Confirmed"
+  },
+  {
+    "log_id": "AUD-2997920",
+    "TransactionID": 2997920,
+    "investigator_note": "URGENT: Nasabah melaporkan transaksi tidak dikenal dari perangkat baru pada dini hari.",
+    "ticket_status": "Closed-Confirmed"
+  },
+  {
+    "log_id": "AUD-2997925",
+    "TransactionID": 2997925,
+    "investigator_note": "ALERT: Percobaan transaksi berulang dalam waktu singkat melewati batas wajar.",
+    "ticket_status": "Closed-Confirmed"
+  },
+  {
+    "log_id": "AUD-2997946",
+    "TransactionID": 2997946,
+    "investigator_note": "REVIEW: Alamat IP dan domain email pembeli tidak sesuai dengan profil kartu terdaftar.",
+    "ticket_status": "Closed-Confirmed"
+  },
+  {
+    "log_id": "AUD-2997990",
+    "TransactionID": 2997990,
+    "investigator_note": "REVIEW: Alamat IP dan domain email pembeli tidak sesuai dengan profil kartu terdaftar.",
+    "ticket_status": "Closed-Confirmed"
+  },
+  {
+    "log_id": "AUD-2998003",
+    "TransactionID": 2998003,
+    "investigator_note": "INVESTIGATION: Transaksi nominal tinggi terdeteksi pada merchant kategori berisiko.",
+    "ticket_status": "Closed-Confirmed"
+  },
+  {
+    "log_id": "AUD-2998019",
+    "TransactionID": 2998019,
+    "investigator_note": "INVESTIGATION: Transaksi nominal tinggi terdeteksi pada merchant kategori berisiko.",
+    "ticket_status": "Closed-Confirmed"
+  },
+  {
+    "log_id": "AUD-2998035",
+    "TransactionID": 2998035,
+    "investigator_note": "INVESTIGATION: Transaksi nominal tinggi terdeteksi pada merchant kategori berisiko.",
+    "ticket_status": "Closed-Confirmed"
+  },
+  {
+    "log_id": "AUD-2998043",
+    "TransactionID": 2998043,
+    "investigator_note": "INVESTIGATION: Transaksi nominal tinggi terdeteksi pada merchant kategori berisiko.",
+    "ticket_status": "Closed-Confirmed"
+  },
+  {
+    "log_id": "AUD-2998173",
+    "TransactionID": 2998173,
+    "investigator_note": "ALERT: Percobaan transaksi berulang dalam waktu singkat melewati batas wajar.",
+    "ticket_status": "Closed-Confirmed"
+  },
+  {
+    "log_id": "AUD-2998180",
+    "TransactionID": 2998180,
+    "investigator_note": "URGENT: Nasabah melaporkan transaksi tidak dikenal dari perangkat baru pada dini hari.",
+    "ticket_status": "Closed-Confirmed"
+  },
+  {
+    "log_id": "AUD-2998224",
+    "TransactionID": 2998224,
+    "investigator_note": "URGENT: Nasabah melaporkan transaksi tidak dikenal dari perangkat baru pada dini hari.",
+    "ticket_status": "Escalated"
+  },
+  {
+    "log_id": "AUD-2998237",
+    "TransactionID": 2998237,
+    "investigator_note": "ALERT: Percobaan transaksi berulang dalam waktu singkat melewati batas wajar.",
+    "ticket_status": "Closed-Confirmed"
+  },
+  {
+    "log_id": "AUD-2998241",
+    "TransactionID": 2998241,
+    "investigator_note": "ALERT: Percobaan transaksi berulang dalam waktu singkat melewati batas wajar.",
+    "ticket_status": "Escalated"
+  },
+  {
+    "log_id": "AUD-2998243",
+    "TransactionID": 2998243,
+    "investigator_note": "INVESTIGATION: Transaksi nominal tinggi terdeteksi pada merchant kategori berisiko.",
+    "ticket_status": "Closed-Confirmed"
+  },
+  {
+    "log_id": "AUD-2998250",
+    "TransactionID": 2998250,
+    "investigator_note": "REVIEW: Alamat IP dan domain email pembeli tidak sesuai dengan profil kartu terdaftar.",
+    "ticket_status": "Closed-Confirmed"
+  },
+  {
+    "log_id": "AUD-2998292",
+    "TransactionID": 2998292,
+    "investigator_note": "URGENT: Nasabah melaporkan transaksi tidak dikenal dari perangkat baru pada dini hari.",
+    "ticket_status": "Closed-Confirmed"
+  },
+  {
+    "log_id": "AUD-2998311",
+    "TransactionID": 2998311,
+    "investigator_note": "INVESTIGATION: Transaksi nominal tinggi terdeteksi pada merchant kategori berisiko.",
+    "ticket_status": "Escalated"
+  },
+  {
+    "log_id": "AUD-2998338",
+    "TransactionID": 2998338,
+    "investigator_note": "REVIEW: Alamat IP dan domain email pembeli tidak sesuai dengan profil kartu terdaftar.",
+    "ticket_status": "Closed-Confirmed"
+  },
+  {
+    "log_id": "AUD-2998397",
+    "TransactionID": 2998397,
+    "investigator_note": "ALERT: Percobaan transaksi berulang dalam waktu singkat melewati batas wajar.",
+    "ticket_status": "Closed-Confirmed"
+  },
+  {
+    "log_id": "AUD-2998434",
+    "TransactionID": 2998434,
+    "investigator_note": "REVIEW: Alamat IP dan domain email pembeli tidak sesuai dengan profil kartu terdaftar.",
+    "ticket_status": "Closed-Confirmed"
+  },
+  {
+    "log_id": "AUD-2998499",
+    "TransactionID": 2998499,
+    "investigator_note": "INVESTIGATION: Transaksi nominal tinggi terdeteksi pada merchant kategori berisiko.",
+    "ticket_status": "Closed-Confirmed"
+  },
+  {
+    "log_id": "AUD-2998544",
+    "TransactionID": 2998544,
+    "investigator_note": "URGENT: Nasabah melaporkan transaksi tidak dikenal dari perangkat baru pada dini hari.",
+    "ticket_status": "Closed-Confirmed"
+  },
+  {
+    "log_id": "AUD-2998613",
+    "TransactionID": 2998613,
+    "investigator_note": "ALERT: Percobaan transaksi berulang dalam waktu singkat melewati batas wajar.",
+    "ticket_status": "Closed-Confirmed"
+  },
+  {
+    "log_id": "AUD-2998622",
+    "TransactionID": 2998622,
+    "investigator_note": "REVIEW: Alamat IP dan domain email pembeli tidak sesuai dengan profil kartu terdaftar.",
+    "ticket_status": "Escalated"
+  },
+  {
+    "log_id": "AUD-2998638",
+    "TransactionID": 2998638,
+    "investigator_note": "REVIEW: Alamat IP dan domain email pembeli tidak sesuai dengan profil kartu terdaftar.",
+    "ticket_status": "Closed-Confirmed"
+  },
+  {
+    "log_id": "AUD-2998645",
+    "TransactionID": 2998645,
+    "investigator_note": "ALERT: Percobaan transaksi berulang dalam waktu singkat melewati batas wajar.",
+    "ticket_status": "Closed-Confirmed"
+  },
+  {
+    "log_id": "AUD-2998666",
+    "TransactionID": 2998666,
+    "investigator_note": "REVIEW: Alamat IP dan domain email pembeli tidak sesuai dengan profil kartu terdaftar.",
+    "ticket_status": "Closed-Confirmed"
+  },
+  {
+    "log_id": "AUD-2998697",
+    "TransactionID": 2998697,
+    "investigator_note": "ALERT: Percobaan transaksi berulang dalam waktu singkat melewati batas wajar.",
+    "ticket_status": "Closed-Confirmed"
+  },
+  {
+    "log_id": "AUD-2998745",
+    "TransactionID": 2998745,
+    "investigator_note": "ALERT: Percobaan transaksi berulang dalam waktu singkat melewati batas wajar.",
+    "ticket_status": "Closed-Confirmed"
+  },
+  {
+    "log_id": "AUD-2998766",
+    "TransactionID": 2998766,
+    "investigator_note": "REVIEW: Alamat IP dan domain email pembeli tidak sesuai dengan profil kartu terdaftar.",
+    "ticket_status": "Escalated"
+  },
+  {
+    "log_id": "AUD-2998812",
+    "TransactionID": 2998812,
+    "investigator_note": "URGENT: Nasabah melaporkan transaksi tidak dikenal dari perangkat baru pada dini hari.",
+    "ticket_status": "Closed-Confirmed"
+  },
+  {
+    "log_id": "AUD-2998855",
+    "TransactionID": 2998855,
+    "investigator_note": "INVESTIGATION: Transaksi nominal tinggi terdeteksi pada merchant kategori berisiko.",
+    "ticket_status": "Closed-Confirmed"
+  },
+  {
+    "log_id": "AUD-2998861",
+    "TransactionID": 2998861,
+    "investigator_note": "ALERT: Percobaan transaksi berulang dalam waktu singkat melewati batas wajar.",
+    "ticket_status": "Closed-Confirmed"
+  },
+  {
+    "log_id": "AUD-2998888",
+    "TransactionID": 2998888,
+    "investigator_note": "URGENT: Nasabah melaporkan transaksi tidak dikenal dari perangkat baru pada dini hari.",
+    "ticket_status": "Closed-Confirmed"
+  },
+  {
+    "log_id": "AUD-2998898",
+    "TransactionID": 2998898,
+    "investigator_note": "REVIEW: Alamat IP dan domain email pembeli tidak sesuai dengan profil kartu terdaftar.",
+    "ticket_status": "Closed-Confirmed"
+  },
+  {
+    "log_id": "AUD-2998942",
+    "TransactionID": 2998942,
+    "investigator_note": "REVIEW: Alamat IP dan domain email pembeli tidak sesuai dengan profil kartu terdaftar.",
+    "ticket_status": "Closed-Confirmed"
+  },
+  {
+    "log_id": "AUD-2999193",
+    "TransactionID": 2999193,
+    "investigator_note": "ALERT: Percobaan transaksi berulang dalam waktu singkat melewati batas wajar.",
+    "ticket_status": "Closed-Confirmed"
+  },
+  {
+    "log_id": "AUD-2999200",
+    "TransactionID": 2999200,
+    "investigator_note": "URGENT: Nasabah melaporkan transaksi tidak dikenal dari perangkat baru pada dini hari.",
+    "ticket_status": "Closed-Confirmed"
+  },
+  {
+    "log_id": "AUD-2999282",
+    "TransactionID": 2999282,
+    "investigator_note": "REVIEW: Alamat IP dan domain email pembeli tidak sesuai dengan profil kartu terdaftar.",
+    "ticket_status": "Escalated"
+  },
+  {
+    "log_id": "AUD-2999284",
+    "TransactionID": 2999284,
+    "investigator_note": "URGENT: Nasabah melaporkan transaksi tidak dikenal dari perangkat baru pada dini hari.",
+    "ticket_status": "Escalated"
+  },
+  {
+    "log_id": "AUD-2999300",
+    "TransactionID": 2999300,
+    "investigator_note": "URGENT: Nasabah melaporkan transaksi tidak dikenal dari perangkat baru pada dini hari.",
+    "ticket_status": "Closed-Confirmed"
+  },
+  {
+    "log_id": "AUD-2999324",
+    "TransactionID": 2999324,
+    "investigator_note": "URGENT: Nasabah melaporkan transaksi tidak dikenal dari perangkat baru pada dini hari.",
+    "ticket_status": "Escalated"
+  },
+  {
+    "log_id": "AUD-2999337",
+    "TransactionID": 2999337,
+    "investigator_note": "ALERT: Percobaan transaksi berulang dalam waktu singkat melewati batas wajar.",
+    "ticket_status": "Closed-Confirmed"
+  },
+  {
+    "log_id": "AUD-2999347",
+    "TransactionID": 2999347,
+    "investigator_note": "INVESTIGATION: Transaksi nominal tinggi terdeteksi pada merchant kategori berisiko.",
+    "ticket_status": "Closed-Confirmed"
+  },
+  {
+    "log_id": "AUD-2999362",
+    "TransactionID": 2999362,
+    "investigator_note": "REVIEW: Alamat IP dan domain email pembeli tidak sesuai dengan profil kartu terdaftar.",
+    "ticket_status": "Closed-Confirmed"
+  },
+  {
+    "log_id": "AUD-2999429",
+    "TransactionID": 2999429,
+    "investigator_note": "ALERT: Percobaan transaksi berulang dalam waktu singkat melewati batas wajar.",
+    "ticket_status": "Escalated"
+  },
+  {
+    "log_id": "AUD-2999463",
+    "TransactionID": 2999463,
+    "investigator_note": "INVESTIGATION: Transaksi nominal tinggi terdeteksi pada merchant kategori berisiko.",
+    "ticket_status": "Closed-Confirmed"
+  },
+  {
+    "log_id": "AUD-2999467",
+    "TransactionID": 2999467,
+    "investigator_note": "INVESTIGATION: Transaksi nominal tinggi terdeteksi pada merchant kategori berisiko.",
+    "ticket_status": "Closed-Confirmed"
+  },
+  {
+    "log_id": "AUD-2999501",
+    "TransactionID": 2999501,
+    "investigator_note": "ALERT: Percobaan transaksi berulang dalam waktu singkat melewati batas wajar.",
+    "ticket_status": "Closed-Confirmed"
+  },
+  {
+    "log_id": "AUD-2999505",
+    "TransactionID": 2999505,
+    "investigator_note": "ALERT: Percobaan transaksi berulang dalam waktu singkat melewati batas wajar.",
+    "ticket_status": "Closed-Confirmed"
+  },
+  {
+    "log_id": "AUD-2999611",
+    "TransactionID": 2999611,
+    "investigator_note": "INVESTIGATION: Transaksi nominal tinggi terdeteksi pada merchant kategori berisiko.",
+    "ticket_status": "Closed-Confirmed"
+  },
+  {
+    "log_id": "AUD-2999617",
+    "TransactionID": 2999617,
+    "investigator_note": "ALERT: Percobaan transaksi berulang dalam waktu singkat melewati batas wajar.",
+    "ticket_status": "Closed-Confirmed"
+  },
+  {
+    "log_id": "AUD-2999733",
+    "TransactionID": 2999733,
+    "investigator_note": "ALERT: Percobaan transaksi berulang dalam waktu singkat melewati batas wajar.",
+    "ticket_status": "Closed-Confirmed"
+  },
+  {
+    "log_id": "AUD-2999741",
+    "TransactionID": 2999741,
+    "investigator_note": "ALERT: Percobaan transaksi berulang dalam waktu singkat melewati batas wajar.",
+    "ticket_status": "Closed-Confirmed"
+  },
+  {
+    "log_id": "AUD-2999748",
+    "TransactionID": 2999748,
+    "investigator_note": "URGENT: Nasabah melaporkan transaksi tidak dikenal dari perangkat baru pada dini hari.",
+    "ticket_status": "Closed-Confirmed"
+  },
+  {
+    "log_id": "AUD-2999785",
+    "TransactionID": 2999785,
+    "investigator_note": "ALERT: Percobaan transaksi berulang dalam waktu singkat melewati batas wajar.",
+    "ticket_status": "Closed-Confirmed"
+  },
+  {
+    "log_id": "AUD-2999806",
+    "TransactionID": 2999806,
+    "investigator_note": "REVIEW: Alamat IP dan domain email pembeli tidak sesuai dengan profil kartu terdaftar.",
+    "ticket_status": "Closed-Confirmed"
+  },
+  {
+    "log_id": "AUD-2999814",
+    "TransactionID": 2999814,
+    "investigator_note": "REVIEW: Alamat IP dan domain email pembeli tidak sesuai dengan profil kartu terdaftar.",
+    "ticket_status": "Escalated"
+  },
+  {
+    "log_id": "AUD-2999815",
+    "TransactionID": 2999815,
+    "investigator_note": "INVESTIGATION: Transaksi nominal tinggi terdeteksi pada merchant kategori berisiko.",
+    "ticket_status": "Closed-Confirmed"
+  },
+  {
+    "log_id": "AUD-2999816",
+    "TransactionID": 2999816,
+    "investigator_note": "URGENT: Nasabah melaporkan transaksi tidak dikenal dari perangkat baru pada dini hari.",
+    "ticket_status": "Closed-Confirmed"
+  },
+  {
+    "log_id": "AUD-2999817",
+    "TransactionID": 2999817,
+    "investigator_note": "ALERT: Percobaan transaksi berulang dalam waktu singkat melewati batas wajar.",
+    "ticket_status": "Closed-Confirmed"
+  },
+  {
+    "log_id": "AUD-2999850",
+    "TransactionID": 2999850,
+    "investigator_note": "REVIEW: Alamat IP dan domain email pembeli tidak sesuai dengan profil kartu terdaftar.",
+    "ticket_status": "Closed-Confirmed"
+  },
+  {
+    "log_id": "AUD-2999857",
+    "TransactionID": 2999857,
+    "investigator_note": "ALERT: Percobaan transaksi berulang dalam waktu singkat melewati batas wajar.",
+    "ticket_status": "Closed-Confirmed"
+  },
+  {
+    "log_id": "AUD-3000027",
+    "TransactionID": 3000027,
+    "investigator_note": "INVESTIGATION: Transaksi nominal tinggi terdeteksi pada merchant kategori berisiko.",
+    "ticket_status": "Closed-Confirmed"
+  },
+  {
+    "log_id": "AUD-3000028",
+    "TransactionID": 3000028,
+    "investigator_note": "URGENT: Nasabah melaporkan transaksi tidak dikenal dari perangkat baru pada dini hari.",
+    "ticket_status": "Closed-Confirmed"
+  },
+  {
+    "log_id": "AUD-3000048",
+    "TransactionID": 3000048,
+    "investigator_note": "URGENT: Nasabah melaporkan transaksi tidak dikenal dari perangkat baru pada dini hari.",
+    "ticket_status": "Escalated"
+  },
+  {
+    "log_id": "AUD-3000080",
+    "TransactionID": 3000080,
+    "investigator_note": "URGENT: Nasabah melaporkan transaksi tidak dikenal dari perangkat baru pada dini hari.",
+    "ticket_status": "Closed-Confirmed"
+  },
+  {
+    "log_id": "AUD-3000083",
+    "TransactionID": 3000083,
+    "investigator_note": "INVESTIGATION: Transaksi nominal tinggi terdeteksi pada merchant kategori berisiko.",
+    "ticket_status": "Closed-Confirmed"
+  },
+  {
+    "log_id": "AUD-3000099",
+    "TransactionID": 3000099,
+    "investigator_note": "INVESTIGATION: Transaksi nominal tinggi terdeteksi pada merchant kategori berisiko.",
+    "ticket_status": "Closed-Confirmed"
+  },
+  {
+    "log_id": "AUD-3000108",
+    "TransactionID": 3000108,
+    "investigator_note": "URGENT: Nasabah melaporkan transaksi tidak dikenal dari perangkat baru pada dini hari.",
+    "ticket_status": "Closed-Confirmed"
+  },
+  {
+    "log_id": "AUD-3000134",
+    "TransactionID": 3000134,
+    "investigator_note": "REVIEW: Alamat IP dan domain email pembeli tidak sesuai dengan profil kartu terdaftar.",
+    "ticket_status": "Closed-Confirmed"
+  },
+  {
+    "log_id": "AUD-3000145",
+    "TransactionID": 3000145,
+    "investigator_note": "ALERT: Percobaan transaksi berulang dalam waktu singkat melewati batas wajar.",
+    "ticket_status": "Closed-Confirmed"
+  },
+  {
+    "log_id": "AUD-3000167",
+    "TransactionID": 3000167,
+    "investigator_note": "INVESTIGATION: Transaksi nominal tinggi terdeteksi pada merchant kategori berisiko.",
+    "ticket_status": "Closed-Confirmed"
+  },
+  {
+    "log_id": "AUD-3000170",
+    "TransactionID": 3000170,
+    "investigator_note": "REVIEW: Alamat IP dan domain email pembeli tidak sesuai dengan profil kartu terdaftar.",
+    "ticket_status": "Escalated"
+  },
+  {
+    "log_id": "AUD-3000180",
+    "TransactionID": 3000180,
+    "investigator_note": "URGENT: Nasabah melaporkan transaksi tidak dikenal dari perangkat baru pada dini hari.",
+    "ticket_status": "Escalated"
+  },
+  {
+    "log_id": "AUD-3000198",
+    "TransactionID": 3000198,
+    "investigator_note": "REVIEW: Alamat IP dan domain email pembeli tidak sesuai dengan profil kartu terdaftar.",
+    "ticket_status": "Closed-Confirmed"
+  },
+  {
+    "log_id": "AUD-3000228",
+    "TransactionID": 3000228,
+    "investigator_note": "URGENT: Nasabah melaporkan transaksi tidak dikenal dari perangkat baru pada dini hari.",
+    "ticket_status": "Closed-Confirmed"
+  },
+  {
+    "log_id": "AUD-3000272",
+    "TransactionID": 3000272,
+    "investigator_note": "URGENT: Nasabah melaporkan transaksi tidak dikenal dari perangkat baru pada dini hari.",
+    "ticket_status": "Escalated"
+  },
+  {
+    "log_id": "AUD-3000280",
+    "TransactionID": 3000280,
+    "investigator_note": "URGENT: Nasabah melaporkan transaksi tidak dikenal dari perangkat baru pada dini hari.",
+    "ticket_status": "Escalated"
+  },
+  {
+    "log_id": "AUD-3000338",
+    "TransactionID": 3000338,
+    "investigator_note": "REVIEW: Alamat IP dan domain email pembeli tidak sesuai dengan profil kartu terdaftar.",
+    "ticket_status": "Escalated"
+  },
+  {
+    "log_id": "AUD-3000368",
+    "TransactionID": 3000368,
+    "investigator_note": "URGENT: Nasabah melaporkan transaksi tidak dikenal dari perangkat baru pada dini hari.",
+    "ticket_status": "Escalated"
+  },
+  {
+    "log_id": "AUD-3000385",
+    "TransactionID": 3000385,
+    "investigator_note": "ALERT: Percobaan transaksi berulang dalam waktu singkat melewati batas wajar.",
+    "ticket_status": "Closed-Confirmed"
+  },
+  {
+    "log_id": "AUD-3000393",
+    "TransactionID": 3000393,
+    "investigator_note": "ALERT: Percobaan transaksi berulang dalam waktu singkat melewati batas wajar.",
+    "ticket_status": "Closed-Confirmed"
+  },
+  {
+    "log_id": "AUD-3000448",
+    "TransactionID": 3000448,
+    "investigator_note": "URGENT: Nasabah melaporkan transaksi tidak dikenal dari perangkat baru pada dini hari.",
+    "ticket_status": "Closed-Confirmed"
+  },
+  {
+    "log_id": "AUD-3000601",
+    "TransactionID": 3000601,
+    "investigator_note": "ALERT: Percobaan transaksi berulang dalam waktu singkat melewati batas wajar.",
+    "ticket_status": "Closed-Confirmed"
+  },
+  {
+    "log_id": "AUD-3000633",
+    "TransactionID": 3000633,
+    "investigator_note": "ALERT: Percobaan transaksi berulang dalam waktu singkat melewati batas wajar.",
+    "ticket_status": "Closed-Confirmed"
+  },
+  {
+    "log_id": "AUD-3000650",
+    "TransactionID": 3000650,
+    "investigator_note": "REVIEW: Alamat IP dan domain email pembeli tidak sesuai dengan profil kartu terdaftar.",
+    "ticket_status": "Closed-Confirmed"
+  },
+  {
+    "log_id": "AUD-3000737",
+    "TransactionID": 3000737,
+    "investigator_note": "ALERT: Percobaan transaksi berulang dalam waktu singkat melewati batas wajar.",
+    "ticket_status": "Closed-Confirmed"
+  },
+  {
+    "log_id": "AUD-3000769",
+    "TransactionID": 3000769,
+    "investigator_note": "ALERT: Percobaan transaksi berulang dalam waktu singkat melewati batas wajar.",
+    "ticket_status": "Escalated"
+  },
+  {
+    "log_id": "AUD-3001010",
+    "TransactionID": 3001010,
+    "investigator_note": "REVIEW: Alamat IP dan domain email pembeli tidak sesuai dengan profil kartu terdaftar.",
+    "ticket_status": "Closed-Confirmed"
+  },
+  {
+    "log_id": "AUD-3001013",
+    "TransactionID": 3001013,
+    "investigator_note": "ALERT: Percobaan transaksi berulang dalam waktu singkat melewati batas wajar.",
+    "ticket_status": "Closed-Confirmed"
+  },
+  {
+    "log_id": "AUD-3001024",
+    "TransactionID": 3001024,
+    "investigator_note": "URGENT: Nasabah melaporkan transaksi tidak dikenal dari perangkat baru pada dini hari.",
+    "ticket_status": "Closed-Confirmed"
+  },
+  {
+    "log_id": "AUD-3001037",
+    "TransactionID": 3001037,
+    "investigator_note": "ALERT: Percobaan transaksi berulang dalam waktu singkat melewati batas wajar.",
+    "ticket_status": "Closed-Confirmed"
+  },
+  {
+    "log_id": "AUD-3001048",
+    "TransactionID": 3001048,
+    "investigator_note": "URGENT: Nasabah melaporkan transaksi tidak dikenal dari perangkat baru pada dini hari.",
+    "ticket_status": "Closed-Confirmed"
+  },
+  {
+    "log_id": "AUD-3001052",
+    "TransactionID": 3001052,
+    "investigator_note": "URGENT: Nasabah melaporkan transaksi tidak dikenal dari perangkat baru pada dini hari.",
+    "ticket_status": "Closed-Confirmed"
+  },
+  {
+    "log_id": "AUD-3001109",
+    "TransactionID": 3001109,
+    "investigator_note": "ALERT: Percobaan transaksi berulang dalam waktu singkat melewati batas wajar.",
+    "ticket_status": "Escalated"
+  },
+  {
+    "log_id": "AUD-3001154",
+    "TransactionID": 3001154,
+    "investigator_note": "REVIEW: Alamat IP dan domain email pembeli tidak sesuai dengan profil kartu terdaftar.",
+    "ticket_status": "Closed-Confirmed"
+  },
+  {
+    "log_id": "AUD-3001172",
+    "TransactionID": 3001172,
+    "investigator_note": "URGENT: Nasabah melaporkan transaksi tidak dikenal dari perangkat baru pada dini hari.",
+    "ticket_status": "Closed-Confirmed"
+  },
+  {
+    "log_id": "AUD-3001175",
+    "TransactionID": 3001175,
+    "investigator_note": "INVESTIGATION: Transaksi nominal tinggi terdeteksi pada merchant kategori berisiko.",
+    "ticket_status": "Closed-Confirmed"
+  },
+  {
+    "log_id": "AUD-3001204",
+    "TransactionID": 3001204,
+    "investigator_note": "URGENT: Nasabah melaporkan transaksi tidak dikenal dari perangkat baru pada dini hari.",
+    "ticket_status": "Closed-Confirmed"
+  },
+  {
+    "log_id": "AUD-3001233",
+    "TransactionID": 3001233,
+    "investigator_note": "ALERT: Percobaan transaksi berulang dalam waktu singkat melewati batas wajar.",
+    "ticket_status": "Closed-Confirmed"
+  },
+  {
+    "log_id": "AUD-3001289",
+    "TransactionID": 3001289,
+    "investigator_note": "ALERT: Percobaan transaksi berulang dalam waktu singkat melewati batas wajar.",
+    "ticket_status": "Closed-Confirmed"
+  },
+  {
+    "log_id": "AUD-3001473",
+    "TransactionID": 3001473,
+    "investigator_note": "ALERT: Percobaan transaksi berulang dalam waktu singkat melewati batas wajar.",
+    "ticket_status": "Closed-Confirmed"
+  },
+  {
+    "log_id": "AUD-3001505",
+    "TransactionID": 3001505,
+    "investigator_note": "ALERT: Percobaan transaksi berulang dalam waktu singkat melewati batas wajar.",
+    "ticket_status": "Closed-Confirmed"
+  },
+  {
+    "log_id": "AUD-3001510",
+    "TransactionID": 3001510,
+    "investigator_note": "REVIEW: Alamat IP dan domain email pembeli tidak sesuai dengan profil kartu terdaftar.",
+    "ticket_status": "Closed-Confirmed"
+  },
+  {
+    "log_id": "AUD-3001513",
+    "TransactionID": 3001513,
+    "investigator_note": "ALERT: Percobaan transaksi berulang dalam waktu singkat melewati batas wajar.",
+    "ticket_status": "Closed-Confirmed"
+  },
+  {
+    "log_id": "AUD-3001556",
+    "TransactionID": 3001556,
+    "investigator_note": "URGENT: Nasabah melaporkan transaksi tidak dikenal dari perangkat baru pada dini hari.",
+    "ticket_status": "Escalated"
+  },
+  {
+    "log_id": "AUD-3001689",
+    "TransactionID": 3001689,
+    "investigator_note": "ALERT: Percobaan transaksi berulang dalam waktu singkat melewati batas wajar.",
+    "ticket_status": "Closed-Confirmed"
+  },
+  {
+    "log_id": "AUD-3001694",
+    "TransactionID": 3001694,
+    "investigator_note": "REVIEW: Alamat IP dan domain email pembeli tidak sesuai dengan profil kartu terdaftar.",
+    "ticket_status": "Closed-Confirmed"
+  },
+  {
+    "log_id": "AUD-3001728",
+    "TransactionID": 3001728,
+    "investigator_note": "URGENT: Nasabah melaporkan transaksi tidak dikenal dari perangkat baru pada dini hari.",
+    "ticket_status": "Closed-Confirmed"
+  },
+  {
+    "log_id": "AUD-3001787",
+    "TransactionID": 3001787,
+    "investigator_note": "INVESTIGATION: Transaksi nominal tinggi terdeteksi pada merchant kategori berisiko.",
+    "ticket_status": "Closed-Confirmed"
+  },
+  {
+    "log_id": "AUD-3001790",
+    "TransactionID": 3001790,
+    "investigator_note": "REVIEW: Alamat IP dan domain email pembeli tidak sesuai dengan profil kartu terdaftar.",
+    "ticket_status": "Closed-Confirmed"
+  },
+  {
+    "log_id": "AUD-3001792",
+    "TransactionID": 3001792,
+    "investigator_note": "URGENT: Nasabah melaporkan transaksi tidak dikenal dari perangkat baru pada dini hari.",
+    "ticket_status": "Closed-Confirmed"
+  },
+  {
+    "log_id": "AUD-3001903",
+    "TransactionID": 3001903,
+    "investigator_note": "INVESTIGATION: Transaksi nominal tinggi terdeteksi pada merchant kategori berisiko.",
+    "ticket_status": "Closed-Confirmed"
+  },
+  {
+    "log_id": "AUD-3001959",
+    "TransactionID": 3001959,
+    "investigator_note": "INVESTIGATION: Transaksi nominal tinggi terdeteksi pada merchant kategori berisiko.",
+    "ticket_status": "Closed-Confirmed"
+  },
+  {
+    "log_id": "AUD-3001977",
+    "TransactionID": 3001977,
+    "investigator_note": "ALERT: Percobaan transaksi berulang dalam waktu singkat melewati batas wajar.",
+    "ticket_status": "Closed-Confirmed"
+  },
+  {
+    "log_id": "AUD-3001982",
+    "TransactionID": 3001982,
+    "investigator_note": "REVIEW: Alamat IP dan domain email pembeli tidak sesuai dengan profil kartu terdaftar.",
+    "ticket_status": "Closed-Confirmed"
+  },
+  {
+    "log_id": "AUD-3002079",
+    "TransactionID": 3002079,
+    "investigator_note": "INVESTIGATION: Transaksi nominal tinggi terdeteksi pada merchant kategori berisiko.",
+    "ticket_status": "Closed-Confirmed"
+  },
+  {
+    "log_id": "AUD-3002100",
+    "TransactionID": 3002100,
+    "investigator_note": "URGENT: Nasabah melaporkan transaksi tidak dikenal dari perangkat baru pada dini hari.",
+    "ticket_status": "Closed-Confirmed"
+  },
+  {
+    "log_id": "AUD-3002117",
+    "TransactionID": 3002117,
+    "investigator_note": "ALERT: Percobaan transaksi berulang dalam waktu singkat melewati batas wajar.",
+    "ticket_status": "Closed-Confirmed"
+  },
+  {
+    "log_id": "AUD-3002165",
+    "TransactionID": 3002165,
+    "investigator_note": "ALERT: Percobaan transaksi berulang dalam waktu singkat melewati batas wajar.",
+    "ticket_status": "Closed-Confirmed"
+  },
+  {
+    "log_id": "AUD-3002188",
+    "TransactionID": 3002188,
+    "investigator_note": "URGENT: Nasabah melaporkan transaksi tidak dikenal dari perangkat baru pada dini hari.",
+    "ticket_status": "Closed-Confirmed"
+  },
+  {
+    "log_id": "AUD-3002252",
+    "TransactionID": 3002252,
+    "investigator_note": "URGENT: Nasabah melaporkan transaksi tidak dikenal dari perangkat baru pada dini hari.",
+    "ticket_status": "Closed-Confirmed"
+  },
+  {
+    "log_id": "AUD-3002265",
+    "TransactionID": 3002265,
+    "investigator_note": "ALERT: Percobaan transaksi berulang dalam waktu singkat melewati batas wajar.",
+    "ticket_status": "Escalated"
+  },
+  {
+    "log_id": "AUD-3002328",
+    "TransactionID": 3002328,
+    "investigator_note": "URGENT: Nasabah melaporkan transaksi tidak dikenal dari perangkat baru pada dini hari.",
+    "ticket_status": "Closed-Confirmed"
+  },
+  {
+    "log_id": "AUD-3002341",
+    "TransactionID": 3002341,
+    "investigator_note": "ALERT: Percobaan transaksi berulang dalam waktu singkat melewati batas wajar.",
+    "ticket_status": "Closed-Confirmed"
+  },
+  {
+    "log_id": "AUD-3002347",
+    "TransactionID": 3002347,
+    "investigator_note": "INVESTIGATION: Transaksi nominal tinggi terdeteksi pada merchant kategori berisiko.",
+    "ticket_status": "Closed-Confirmed"
+  },
+  {
+    "log_id": "AUD-3002355",
+    "TransactionID": 3002355,
+    "investigator_note": "INVESTIGATION: Transaksi nominal tinggi terdeteksi pada merchant kategori berisiko.",
+    "ticket_status": "Closed-Confirmed"
+  },
+  {
+    "log_id": "AUD-3002386",
+    "TransactionID": 3002386,
+    "investigator_note": "REVIEW: Alamat IP dan domain email pembeli tidak sesuai dengan profil kartu terdaftar.",
+    "ticket_status": "Closed-Confirmed"
+  },
+  {
+    "log_id": "AUD-3002406",
+    "TransactionID": 3002406,
+    "investigator_note": "REVIEW: Alamat IP dan domain email pembeli tidak sesuai dengan profil kartu terdaftar.",
+    "ticket_status": "Closed-Confirmed"
+  },
+  {
+    "log_id": "AUD-3002413",
+    "TransactionID": 3002413,
+    "investigator_note": "ALERT: Percobaan transaksi berulang dalam waktu singkat melewati batas wajar.",
+    "ticket_status": "Closed-Confirmed"
+  },
+  {
+    "log_id": "AUD-3002489",
+    "TransactionID": 3002489,
+    "investigator_note": "ALERT: Percobaan transaksi berulang dalam waktu singkat melewati batas wajar.",
+    "ticket_status": "Closed-Confirmed"
+  },
+  {
+    "log_id": "AUD-3002554",
+    "TransactionID": 3002554,
+    "investigator_note": "REVIEW: Alamat IP dan domain email pembeli tidak sesuai dengan profil kartu terdaftar.",
+    "ticket_status": "Escalated"
+  },
+  {
+    "log_id": "AUD-3002638",
+    "TransactionID": 3002638,
+    "investigator_note": "REVIEW: Alamat IP dan domain email pembeli tidak sesuai dengan profil kartu terdaftar.",
+    "ticket_status": "Closed-Confirmed"
+  },
+  {
+    "log_id": "AUD-3002674",
+    "TransactionID": 3002674,
+    "investigator_note": "REVIEW: Alamat IP dan domain email pembeli tidak sesuai dengan profil kartu terdaftar.",
+    "ticket_status": "Closed-Confirmed"
+  },
+  {
+    "log_id": "AUD-3002769",
+    "TransactionID": 3002769,
+    "investigator_note": "ALERT: Percobaan transaksi berulang dalam waktu singkat melewati batas wajar.",
+    "ticket_status": "Closed-Confirmed"
+  },
+  {
+    "log_id": "AUD-3002800",
+    "TransactionID": 3002800,
+    "investigator_note": "URGENT: Nasabah melaporkan transaksi tidak dikenal dari perangkat baru pada dini hari.",
+    "ticket_status": "Closed-Confirmed"
+  },
+  {
+    "log_id": "AUD-3002824",
+    "TransactionID": 3002824,
+    "investigator_note": "URGENT: Nasabah melaporkan transaksi tidak dikenal dari perangkat baru pada dini hari.",
+    "ticket_status": "Closed-Confirmed"
+  },
+  {
+    "log_id": "AUD-3002829",
+    "TransactionID": 3002829,
+    "investigator_note": "ALERT: Percobaan transaksi berulang dalam waktu singkat melewati batas wajar.",
+    "ticket_status": "Closed-Confirmed"
+  },
+  {
+    "log_id": "AUD-3002881",
+    "TransactionID": 3002881,
+    "investigator_note": "ALERT: Percobaan transaksi berulang dalam waktu singkat melewati batas wajar.",
+    "ticket_status": "Escalated"
+  },
+  {
+    "log_id": "AUD-3002894",
+    "TransactionID": 3002894,
+    "investigator_note": "REVIEW: Alamat IP dan domain email pembeli tidak sesuai dengan profil kartu terdaftar.",
+    "ticket_status": "Closed-Confirmed"
+  },
+  {
+    "log_id": "AUD-3002903",
+    "TransactionID": 3002903,
+    "investigator_note": "INVESTIGATION: Transaksi nominal tinggi terdeteksi pada merchant kategori berisiko.",
+    "ticket_status": "Escalated"
+  },
+  {
+    "log_id": "AUD-3002923",
+    "TransactionID": 3002923,
+    "investigator_note": "INVESTIGATION: Transaksi nominal tinggi terdeteksi pada merchant kategori berisiko.",
+    "ticket_status": "Closed-Confirmed"
+  },
+  {
+    "log_id": "AUD-3002957",
+    "TransactionID": 3002957,
+    "investigator_note": "ALERT: Percobaan transaksi berulang dalam waktu singkat melewati batas wajar.",
+    "ticket_status": "Escalated"
+  },
+  {
+    "log_id": "AUD-3002976",
+    "TransactionID": 3002976,
+    "investigator_note": "URGENT: Nasabah melaporkan transaksi tidak dikenal dari perangkat baru pada dini hari.",
+    "ticket_status": "Closed-Confirmed"
+  },
+  {
+    "log_id": "AUD-3002994",
+    "TransactionID": 3002994,
+    "investigator_note": "REVIEW: Alamat IP dan domain email pembeli tidak sesuai dengan profil kartu terdaftar.",
+    "ticket_status": "Escalated"
+  },
+  {
+    "log_id": "AUD-3002999",
+    "TransactionID": 3002999,
+    "investigator_note": "INVESTIGATION: Transaksi nominal tinggi terdeteksi pada merchant kategori berisiko.",
+    "ticket_status": "Closed-Confirmed"
+  },
+  {
+    "log_id": "AUD-3003014",
+    "TransactionID": 3003014,
+    "investigator_note": "REVIEW: Alamat IP dan domain email pembeli tidak sesuai dengan profil kartu terdaftar.",
+    "ticket_status": "Closed-Confirmed"
+  },
+  {
+    "log_id": "AUD-3003030",
+    "TransactionID": 3003030,
+    "investigator_note": "REVIEW: Alamat IP dan domain email pembeli tidak sesuai dengan profil kartu terdaftar.",
+    "ticket_status": "Closed-Confirmed"
+  },
+  {
+    "log_id": "AUD-3003081",
+    "TransactionID": 3003081,
+    "investigator_note": "ALERT: Percobaan transaksi berulang dalam waktu singkat melewati batas wajar.",
+    "ticket_status": "Closed-Confirmed"
+  },
+  {
+    "log_id": "AUD-3003101",
+    "TransactionID": 3003101,
+    "investigator_note": "ALERT: Percobaan transaksi berulang dalam waktu singkat melewati batas wajar.",
+    "ticket_status": "Escalated"
+  },
+  {
+    "log_id": "AUD-3003209",
+    "TransactionID": 3003209,
+    "investigator_note": "ALERT: Percobaan transaksi berulang dalam waktu singkat melewati batas wajar.",
+    "ticket_status": "Closed-Confirmed"
+  },
+  {
+    "log_id": "AUD-3003334",
+    "TransactionID": 3003334,
+    "investigator_note": "REVIEW: Alamat IP dan domain email pembeli tidak sesuai dengan profil kartu terdaftar.",
+    "ticket_status": "Closed-Confirmed"
+  },
+  {
+    "log_id": "AUD-3003336",
+    "TransactionID": 3003336,
+    "investigator_note": "URGENT: Nasabah melaporkan transaksi tidak dikenal dari perangkat baru pada dini hari.",
+    "ticket_status": "Closed-Confirmed"
+  },
+  {
+    "log_id": "AUD-3003347",
+    "TransactionID": 3003347,
+    "investigator_note": "INVESTIGATION: Transaksi nominal tinggi terdeteksi pada merchant kategori berisiko.",
+    "ticket_status": "Closed-Confirmed"
+  },
+  {
+    "log_id": "AUD-3003356",
+    "TransactionID": 3003356,
+    "investigator_note": "URGENT: Nasabah melaporkan transaksi tidak dikenal dari perangkat baru pada dini hari.",
+    "ticket_status": "Closed-Confirmed"
+  },
+  {
+    "log_id": "AUD-3003358",
+    "TransactionID": 3003358,
+    "investigator_note": "REVIEW: Alamat IP dan domain email pembeli tidak sesuai dengan profil kartu terdaftar.",
+    "ticket_status": "Closed-Confirmed"
+  },
+  {
+    "log_id": "AUD-3003397",
+    "TransactionID": 3003397,
+    "investigator_note": "ALERT: Percobaan transaksi berulang dalam waktu singkat melewati batas wajar.",
+    "ticket_status": "Closed-Confirmed"
+  },
+  {
+    "log_id": "AUD-3003410",
+    "TransactionID": 3003410,
+    "investigator_note": "REVIEW: Alamat IP dan domain email pembeli tidak sesuai dengan profil kartu terdaftar.",
+    "ticket_status": "Closed-Confirmed"
+  },
+  {
+    "log_id": "AUD-3003420",
+    "TransactionID": 3003420,
+    "investigator_note": "URGENT: Nasabah melaporkan transaksi tidak dikenal dari perangkat baru pada dini hari.",
+    "ticket_status": "Closed-Confirmed"
+  },
+  {
+    "log_id": "AUD-3003433",
+    "TransactionID": 3003433,
+    "investigator_note": "ALERT: Percobaan transaksi berulang dalam waktu singkat melewati batas wajar.",
+    "ticket_status": "Closed-Confirmed"
+  },
+  {
+    "log_id": "AUD-3003434",
+    "TransactionID": 3003434,
+    "investigator_note": "REVIEW: Alamat IP dan domain email pembeli tidak sesuai dengan profil kartu terdaftar.",
+    "ticket_status": "Closed-Confirmed"
+  },
+  {
+    "log_id": "AUD-3003439",
+    "TransactionID": 3003439,
+    "investigator_note": "INVESTIGATION: Transaksi nominal tinggi terdeteksi pada merchant kategori berisiko.",
+    "ticket_status": "Closed-Confirmed"
+  },
+  {
+    "log_id": "AUD-3003442",
+    "TransactionID": 3003442,
+    "investigator_note": "REVIEW: Alamat IP dan domain email pembeli tidak sesuai dengan profil kartu terdaftar.",
+    "ticket_status": "Closed-Confirmed"
+  },
+  {
+    "log_id": "AUD-3003447",
+    "TransactionID": 3003447,
+    "investigator_note": "INVESTIGATION: Transaksi nominal tinggi terdeteksi pada merchant kategori berisiko.",
+    "ticket_status": "Closed-Confirmed"
+  },
+  {
+    "log_id": "AUD-3003484",
+    "TransactionID": 3003484,
+    "investigator_note": "URGENT: Nasabah melaporkan transaksi tidak dikenal dari perangkat baru pada dini hari.",
+    "ticket_status": "Escalated"
+  },
+  {
+    "log_id": "AUD-3003488",
+    "TransactionID": 3003488,
+    "investigator_note": "URGENT: Nasabah melaporkan transaksi tidak dikenal dari perangkat baru pada dini hari.",
+    "ticket_status": "Closed-Confirmed"
+  },
+  {
+    "log_id": "AUD-3003528",
+    "TransactionID": 3003528,
+    "investigator_note": "URGENT: Nasabah melaporkan transaksi tidak dikenal dari perangkat baru pada dini hari.",
+    "ticket_status": "Closed-Confirmed"
+  },
+  {
+    "log_id": "AUD-3003775",
+    "TransactionID": 3003775,
+    "investigator_note": "INVESTIGATION: Transaksi nominal tinggi terdeteksi pada merchant kategori berisiko.",
+    "ticket_status": "Escalated"
+  },
+  {
+    "log_id": "AUD-3003792",
+    "TransactionID": 3003792,
+    "investigator_note": "URGENT: Nasabah melaporkan transaksi tidak dikenal dari perangkat baru pada dini hari.",
+    "ticket_status": "Closed-Confirmed"
+  },
+  {
+    "log_id": "AUD-3003812",
+    "TransactionID": 3003812,
+    "investigator_note": "URGENT: Nasabah melaporkan transaksi tidak dikenal dari perangkat baru pada dini hari.",
+    "ticket_status": "Closed-Confirmed"
+  },
+  {
+    "log_id": "AUD-3003819",
+    "TransactionID": 3003819,
+    "investigator_note": "INVESTIGATION: Transaksi nominal tinggi terdeteksi pada merchant kategori berisiko.",
+    "ticket_status": "Closed-Confirmed"
+  },
+  {
+    "log_id": "AUD-3003826",
+    "TransactionID": 3003826,
+    "investigator_note": "REVIEW: Alamat IP dan domain email pembeli tidak sesuai dengan profil kartu terdaftar.",
+    "ticket_status": "Closed-Confirmed"
+  },
+  {
+    "log_id": "AUD-3003867",
+    "TransactionID": 3003867,
+    "investigator_note": "INVESTIGATION: Transaksi nominal tinggi terdeteksi pada merchant kategori berisiko.",
+    "ticket_status": "Closed-Confirmed"
+  },
+  {
+    "log_id": "AUD-3003980",
+    "TransactionID": 3003980,
+    "investigator_note": "URGENT: Nasabah melaporkan transaksi tidak dikenal dari perangkat baru pada dini hari.",
+    "ticket_status": "Closed-Confirmed"
+  },
+  {
+    "log_id": "AUD-3004004",
+    "TransactionID": 3004004,
+    "investigator_note": "URGENT: Nasabah melaporkan transaksi tidak dikenal dari perangkat baru pada dini hari.",
+    "ticket_status": "Closed-Confirmed"
+  },
+  {
+    "log_id": "AUD-3004009",
+    "TransactionID": 3004009,
+    "investigator_note": "ALERT: Percobaan transaksi berulang dalam waktu singkat melewati batas wajar.",
+    "ticket_status": "Escalated"
+  },
+  {
+    "log_id": "AUD-3004188",
+    "TransactionID": 3004188,
+    "investigator_note": "URGENT: Nasabah melaporkan transaksi tidak dikenal dari perangkat baru pada dini hari.",
+    "ticket_status": "Escalated"
+  },
+  {
+    "log_id": "AUD-3004260",
+    "TransactionID": 3004260,
+    "investigator_note": "URGENT: Nasabah melaporkan transaksi tidak dikenal dari perangkat baru pada dini hari.",
+    "ticket_status": "Closed-Confirmed"
+  },
+  {
+    "log_id": "AUD-3004262",
+    "TransactionID": 3004262,
+    "investigator_note": "REVIEW: Alamat IP dan domain email pembeli tidak sesuai dengan profil kartu terdaftar.",
+    "ticket_status": "Closed-Confirmed"
+  },
+  {
+    "log_id": "AUD-3004339",
+    "TransactionID": 3004339,
+    "investigator_note": "INVESTIGATION: Transaksi nominal tinggi terdeteksi pada merchant kategori berisiko.",
+    "ticket_status": "Closed-Confirmed"
+  },
+  {
+    "log_id": "AUD-3004418",
+    "TransactionID": 3004418,
+    "investigator_note": "REVIEW: Alamat IP dan domain email pembeli tidak sesuai dengan profil kartu terdaftar.",
+    "ticket_status": "Escalated"
+  },
+  {
+    "log_id": "AUD-3004422",
+    "TransactionID": 3004422,
+    "investigator_note": "REVIEW: Alamat IP dan domain email pembeli tidak sesuai dengan profil kartu terdaftar.",
+    "ticket_status": "Closed-Confirmed"
+  },
+  {
+    "log_id": "AUD-3004423",
+    "TransactionID": 3004423,
+    "investigator_note": "INVESTIGATION: Transaksi nominal tinggi terdeteksi pada merchant kategori berisiko.",
+    "ticket_status": "Escalated"
+  },
+  {
+    "log_id": "AUD-3004426",
+    "TransactionID": 3004426,
+    "investigator_note": "REVIEW: Alamat IP dan domain email pembeli tidak sesuai dengan profil kartu terdaftar.",
+    "ticket_status": "Closed-Confirmed"
+  },
+  {
+    "log_id": "AUD-3004428",
+    "TransactionID": 3004428,
+    "investigator_note": "URGENT: Nasabah melaporkan transaksi tidak dikenal dari perangkat baru pada dini hari.",
+    "ticket_status": "Escalated"
+  },
+  {
+    "log_id": "AUD-3004432",
+    "TransactionID": 3004432,
+    "investigator_note": "URGENT: Nasabah melaporkan transaksi tidak dikenal dari perangkat baru pada dini hari.",
+    "ticket_status": "Escalated"
+  },
+  {
+    "log_id": "AUD-3004451",
+    "TransactionID": 3004451,
+    "investigator_note": "INVESTIGATION: Transaksi nominal tinggi terdeteksi pada merchant kategori berisiko.",
+    "ticket_status": "Closed-Confirmed"
+  },
+  {
+    "log_id": "AUD-3004610",
+    "TransactionID": 3004610,
+    "investigator_note": "REVIEW: Alamat IP dan domain email pembeli tidak sesuai dengan profil kartu terdaftar.",
+    "ticket_status": "Closed-Confirmed"
+  },
+  {
+    "log_id": "AUD-3004622",
+    "TransactionID": 3004622,
+    "investigator_note": "REVIEW: Alamat IP dan domain email pembeli tidak sesuai dengan profil kartu terdaftar.",
+    "ticket_status": "Closed-Confirmed"
+  },
+  {
+    "log_id": "AUD-3004626",
+    "TransactionID": 3004626,
+    "investigator_note": "REVIEW: Alamat IP dan domain email pembeli tidak sesuai dengan profil kartu terdaftar.",
+    "ticket_status": "Closed-Confirmed"
+  },
+  {
+    "log_id": "AUD-3004637",
+    "TransactionID": 3004637,
+    "investigator_note": "ALERT: Percobaan transaksi berulang dalam waktu singkat melewati batas wajar.",
+    "ticket_status": "Closed-Confirmed"
+  },
+  {
+    "log_id": "AUD-3004638",
+    "TransactionID": 3004638,
+    "investigator_note": "REVIEW: Alamat IP dan domain email pembeli tidak sesuai dengan profil kartu terdaftar.",
+    "ticket_status": "Closed-Confirmed"
+  },
+  {
+    "log_id": "AUD-3004645",
+    "TransactionID": 3004645,
+    "investigator_note": "ALERT: Percobaan transaksi berulang dalam waktu singkat melewati batas wajar.",
+    "ticket_status": "Closed-Confirmed"
+  },
+  {
+    "log_id": "AUD-3004648",
+    "TransactionID": 3004648,
+    "investigator_note": "URGENT: Nasabah melaporkan transaksi tidak dikenal dari perangkat baru pada dini hari.",
+    "ticket_status": "Closed-Confirmed"
+  },
+  {
+    "log_id": "AUD-3004676",
+    "TransactionID": 3004676,
+    "investigator_note": "URGENT: Nasabah melaporkan transaksi tidak dikenal dari perangkat baru pada dini hari.",
+    "ticket_status": "Closed-Confirmed"
+  },
+  {
+    "log_id": "AUD-3004684",
+    "TransactionID": 3004684,
+    "investigator_note": "URGENT: Nasabah melaporkan transaksi tidak dikenal dari perangkat baru pada dini hari.",
+    "ticket_status": "Closed-Confirmed"
+  },
+  {
+    "log_id": "AUD-3004720",
+    "TransactionID": 3004720,
+    "investigator_note": "URGENT: Nasabah melaporkan transaksi tidak dikenal dari perangkat baru pada dini hari.",
+    "ticket_status": "Closed-Confirmed"
+  },
+  {
+    "log_id": "AUD-3004725",
+    "TransactionID": 3004725,
+    "investigator_note": "ALERT: Percobaan transaksi berulang dalam waktu singkat melewati batas wajar.",
+    "ticket_status": "Closed-Confirmed"
+  },
+  {
+    "log_id": "AUD-3004730",
+    "TransactionID": 3004730,
+    "investigator_note": "REVIEW: Alamat IP dan domain email pembeli tidak sesuai dengan profil kartu terdaftar.",
+    "ticket_status": "Closed-Confirmed"
+  },
+  {
+    "log_id": "AUD-3004858",
+    "TransactionID": 3004858,
+    "investigator_note": "REVIEW: Alamat IP dan domain email pembeli tidak sesuai dengan profil kartu terdaftar.",
+    "ticket_status": "Closed-Confirmed"
+  },
+  {
+    "log_id": "AUD-3005051",
+    "TransactionID": 3005051,
+    "investigator_note": "INVESTIGATION: Transaksi nominal tinggi terdeteksi pada merchant kategori berisiko.",
+    "ticket_status": "Closed-Confirmed"
+  },
+  {
+    "log_id": "AUD-3005098",
+    "TransactionID": 3005098,
+    "investigator_note": "REVIEW: Alamat IP dan domain email pembeli tidak sesuai dengan profil kartu terdaftar.",
+    "ticket_status": "Escalated"
+  },
+  {
+    "log_id": "AUD-3005127",
+    "TransactionID": 3005127,
+    "investigator_note": "INVESTIGATION: Transaksi nominal tinggi terdeteksi pada merchant kategori berisiko.",
+    "ticket_status": "Closed-Confirmed"
+  },
+  {
+    "log_id": "AUD-3005147",
+    "TransactionID": 3005147,
+    "investigator_note": "INVESTIGATION: Transaksi nominal tinggi terdeteksi pada merchant kategori berisiko.",
+    "ticket_status": "Closed-Confirmed"
+  },
+  {
+    "log_id": "AUD-3005230",
+    "TransactionID": 3005230,
+    "investigator_note": "REVIEW: Alamat IP dan domain email pembeli tidak sesuai dengan profil kartu terdaftar.",
+    "ticket_status": "Escalated"
+  },
+  {
+    "log_id": "AUD-3005315",
+    "TransactionID": 3005315,
+    "investigator_note": "INVESTIGATION: Transaksi nominal tinggi terdeteksi pada merchant kategori berisiko.",
+    "ticket_status": "Closed-Confirmed"
+  },
+  {
+    "log_id": "AUD-3005373",
+    "TransactionID": 3005373,
+    "investigator_note": "ALERT: Percobaan transaksi berulang dalam waktu singkat melewati batas wajar.",
+    "ticket_status": "Closed-Confirmed"
+  },
+  {
+    "log_id": "AUD-3005375",
+    "TransactionID": 3005375,
+    "investigator_note": "INVESTIGATION: Transaksi nominal tinggi terdeteksi pada merchant kategori berisiko.",
+    "ticket_status": "Closed-Confirmed"
+  }
+]

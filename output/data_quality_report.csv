@@ -1,0 +1,5 @@
+Aspek_DQ,Metric,Nilai
+Uniqueness,Duplikat TransactionID dihapus,0
+Validity,Transaksi nominal <= 0 dihapus,0
+Completeness,Null card4 diimputasi 'Unknown',1577
+Consistency,Standardisasi Uppercase/Capitalize,590540
